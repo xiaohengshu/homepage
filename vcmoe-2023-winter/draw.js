@@ -10,7 +10,7 @@ function changeTableUrl() {
     var shuffle = true
     var seed = $seed.val()
     var fav_id = $favList.val()
-    var url = `${SERVER_URL}/fav/${fav_id}/?shuffle=${shuffle}&seed=${seed}`
+    var url = `${SERVER_URL}/fav/${fav_id}?shuffle=${shuffle}&seed=${seed}`
     $table.bootstrapTable('refreshOptions', {
         url: url
     })
