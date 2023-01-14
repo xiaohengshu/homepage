@@ -5,24 +5,12 @@ var $favList = $('#fav_list')
 var $seed = $('#seed')
 var $pageSize = $('#page-size')
 var $result = $('#result')
+var $drawSettings = $('#draw-settings')
+var $drawBtn = $('#draw-btn')
+var $drawBtnDiv = $('#draw-btn-div')
+var $resultTextDiv = $('#result-text-div')
+var $resultTableDiv = $('#result-table-div')
 
-function changeTableUrl() {
-    var shuffle = true
-    var seed = $seed.val()
-    var fav_id = $favList.val()
-    var url = `${SERVER_URL}/fav/${fav_id}?shuffle=${shuffle}&seed=${seed}`
-    $table.bootstrapTable('refreshOptions', {
-        url: url
-    })
-}
-
-function changeTablePageSize() {
-    var pageSize = $pageSize.val()
-    $table.bootstrapTable('refreshOptions', {
-        pageSize: pageSize,
-        pageList: [pageSize, 'All']
-    })
-}
 
 function toBiliLink(avid) {
     return `https://www.bilibili.com/video/av${avid}/`
@@ -47,37 +35,65 @@ function ctimeFormatter(value, row, index) {
 
 function genResult(data) {
     var pageData = $table.bootstrapTable('getData', { useCurrentPage: true })
-    var pageNum = $table.bootstrapTable('getOptions').pageNumber
-    var text = "【第" + (pageNum) + "组】\n"
-    pageData.forEach((item, index) => {
-        text += `${(index + 1)} ${toBiliLink(item.id)}\n`
-    });
-    text = text.substring(0, text.length - 1)
-    $result.val(text)
+    if (pageData.length){
+        var pageNum = $table.bootstrapTable('getOptions').pageNumber
+        var text = "【第" + (pageNum) + "组】\n"
+        pageData.forEach((item, index) => {
+            text += `${(index + 1)} ${toBiliLink(item.id)}\n`
+        });
+        text = text.substring(0, text.length - 1)
+        $result.val(text)
+    }
 }
 
 function loadFavData(result) {
+    $favList.html("")
     $.each(result, function (i, field) {
         $favList.append($('<option>', {
-            value: field["id"],
-            text: field["title"]
+            value: field.id,
+            text: `${field.title} (${field.media_count})`
         }));
     });
-    $favList.change()
+    $drawSettings.attr("disabled",false)
 }
 
 function loadFavVideoData() {
-    $table.bootstrapTable({
-        onPostBody: genResult
+    var fav_id = $favList.val()
+    var seed = $seed.val()
+    var pageSize = $pageSize.val()
+    var shuffle = true
+
+    if(!seed || seed.length === 0){
+        alert("请输入分组种子！")
+        $seed.focus()
+        return;
+    }
+
+    if(!pageSize || pageSize.length === 0){
+        alert("请输入分组大小！")
+        $pageSize.focus()
+        return;
+    }
+    
+    $drawSettings.attr("disabled",true)
+    $drawBtnDiv.hide()
+    $resultTextDiv.show()
+    $resultTableDiv.show()
+
+    var url = `${SERVER_URL}/fav/${fav_id}?page_size=${pageSize}&shuffle=${shuffle}&seed=${seed}`
+
+    $table.bootstrapTable('refreshOptions', {
+        url: url,
+        pageSize: pageSize,
+        pageList: [pageSize, 'All']
     })
-    $seed.change(changeTableUrl)
-    $pageSize.change(changeTablePageSize)
-    changeTableUrl()
-    changeTablePageSize()
 }
 
 $(function () {
     const url = `${SERVER_URL}/fav`;
     $.getJSON(url, loadFavData)
-    $favList.change(loadFavVideoData)
+    $drawBtn.click(loadFavVideoData)
+    $table.bootstrapTable({
+        onPostBody: genResult
+    })
 })
