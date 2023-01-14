@@ -48,9 +48,13 @@
                 <div class="mb-3" id="result-table-div" style="display: none;">
                     <table id="table" data-locale="zh-CN" data-height="700" data-pagination="true" data-page-size="20"
                         data-page-list="[20, All]" data-search="true" data-show-toggle="true" data-show-columns="true"
-                        data-show-export="true" data-filter-control="true" data-search-highlight="true" data-show-refresh="true">
+                        data-show-export="true" data-filter-control="true" data-search-highlight="true" data-show-refresh="true" data-show-search-clear-button="true">
                         <thead>
                             <tr>
+                                <th data-field="_page" data-halign="center"  data-sortable=true
+                                    data-valign="middle" data-align="right" data-searchable="false">组号</th>
+                                <th data-field="_page_idx" data-halign="center" data-sortable=true
+                                    data-valign="middle" data-align="right" data-searchable="false">组内序号</th>
                                 <th data-field="id" data-sortable=true data-halign="center" data-valign="middle"
                                     data-align="center" data-formatter="idFormatter">av号</th>
                                 <th data-field="title" data-halign="center" data-valign="middle">标题</th>

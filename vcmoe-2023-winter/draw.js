@@ -35,7 +35,7 @@ function ctimeFormatter(value, row, index) {
 
 function genResult(data) {
     var pageData = $table.bootstrapTable('getData', { useCurrentPage: true })
-    if (pageData.length){
+    if (pageData.length) {
         var pageNum = $table.bootstrapTable('getOptions').pageNumber
         var text = "【第" + (pageNum) + "组】\n"
         pageData.forEach((item, index) => {
@@ -54,7 +54,7 @@ function loadFavData(result) {
             text: `${field.title} (${field.media_count})`
         }));
     });
-    $drawSettings.attr("disabled",false)
+    $drawSettings.attr("disabled", false)
 }
 
 function loadFavVideoData() {
@@ -63,19 +63,26 @@ function loadFavVideoData() {
     var pageSize = $pageSize.val()
     var shuffle = true
 
-    if(!seed || seed.length === 0){
+    if (!seed || seed.length === 0) {
         alert("请输入分组种子！")
         $seed.focus()
         return;
     }
 
-    if(!pageSize || pageSize.length === 0){
+    if (!pageSize || pageSize.length === 0) {
         alert("请输入分组大小！")
         $pageSize.focus()
         return;
     }
-    
-    $drawSettings.attr("disabled",true)
+
+    if (String(parseInt(pageSize)) !== pageSize || parseInt(pageSize) <= 0) {
+        alert("请输入正确的分组大小！")
+        $pageSize.val("")
+        $pageSize.focus()
+        return;
+    }
+
+    $drawSettings.attr("disabled", true)
     $drawBtnDiv.hide()
     $resultTextDiv.show()
     $resultTableDiv.show()
@@ -89,11 +96,20 @@ function loadFavVideoData() {
     })
 }
 
+function tableLoadError(status, jqXHR) {
+    alert(`获取抽签结果错误！请刷新页面重试 :(\njqXHR: ${JSON.stringify(jqXHR)}\nstatus: ${JSON.stringify(status)}`);
+}
+
 $(function () {
     const url = `${SERVER_URL}/fav`;
-    $.getJSON(url, loadFavData)
+    $.ajax(url)
+        .done(loadFavData)
+        .fail(function (jqXHR, textStatus, errorThrown) {
+            alert(`获取收藏夹列表错误！请刷新页面重试 :(\njqXHR: ${JSON.stringify(jqXHR)}\nstatus: ${JSON.stringify(textStatus)}\nerror: ${JSON.stringify(errorThrown)}`);
+        })
     $drawBtn.click(loadFavVideoData)
     $table.bootstrapTable({
-        onPostBody: genResult
+        onPostBody: genResult,
+        onLoadError: tableLoadError
     })
 })
