@@ -114,14 +114,7 @@ function loadFavData(result) {
 }
 
 function loadDrawResult() {
-
-    $drawSettings.attr("disabled", true)
-    $drawBtnDiv.hide()
-    $resultTextDiv.show()
-    $resultTableDiv.show()
-    $addFavTextDiv.show()
-
-    var url = `${SERVER_URL}/group/1?perfer_size=10`
+    var url = `${SERVER_URL}/favorites/2028916267/groups?perfer_size=10&shuffle_seed=成一書著一劃%E2%80%8B`
 
     $table.bootstrapTable('refreshOptions', {
         url: url,
