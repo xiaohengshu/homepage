@@ -34,57 +34,7 @@ function ctimeFormatter(value, row, index) {
     return year + "-" + month + "-" + date
 }
 function add_fav_script(title, list) {
-    return `var fav_title = ${JSON.stringify(title)}
-var aid_list = ${JSON.stringify(list.map(function (item) { return item.id; }))}
-var cookie = document.cookie
-var csrf = cookie.replace(/(?:(?:^|.*;\\s*)bili_jct\\s*\\=\\s*([^;]*).*$)|^.*$/, "$1");
-const CREATE_FAV = "https://api.bilibili.com/x/v3/fav/folder/add"
-const ADD_FAV = "https://api.bilibili.com/x/v3/fav/resource/deal"
-function add_fav(avid, fav_id) {
-    $.ajax({
-        type: 'POST',
-        url: ADD_FAV,
-        data: { rid: avid, type: 2, add_media_ids: fav_id, csrf: csrf },
-        async: false,
-        xhrFields: { withCredentials: true },
-        dataType: "json",
-    }).success(
-        (result) => {
-            console.log("https://www.bilibili.com/video/av"+avid, " 收藏成功")
-        }
-    )
-}
-function sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
-}
-function create_fav(fav_title) {
-    $.ajax({
-        type: 'POST',
-        url: CREATE_FAV,
-        data: { title: fav_title, csrf: csrf },
-        async: false,
-        xhrFields: { withCredentials: true },
-        dataType: "json",
-    }).success(
-        (result) => {
-            fav_id = result.data.id
-            console.log("收藏夹id:", fav_id)
-        }
-    )
-}
-
-if (csrf) {
-    create_fav(fav_title, aid_list)
-    for (i = 0; i < aid_list.length; i++) {
-        aid = aid_list[i]
-        add_fav(aid, fav_id);
-        await sleep(500)
-    }
-    console.log("执行结束！")
-    console.log('收藏夹： ','https://space.bilibili.com/495775367/favlist?fid='+fav_id)
-} else {
-    console.log("csrf错误")
-}`
+    return `var fav_title=${JSON.stringify(title)};var aid_list=${JSON.stringify(list.map(function (item) { return item.id; }))};var cookie=document.cookie;var csrf = cookie.replace(/(?:(?:^|.*;\\s*)bili_jct\\s*\\=\\s*([^;]*).*$)|^.*$/, "$1");var CREATE_FAV="https://api.bilibili.com/x/v3/fav/folder/add";var ADD_FAV="https://api.bilibili.com/x/v3/fav/resource/deal";function add_fav(avid,fav_id){$.ajax({type:'POST',url:ADD_FAV,data:{rid:avid,type:2,add_media_ids:fav_id,csrf:csrf},async:false,xhrFields:{withCredentials:true},dataType:"json",})}function sleep(ms){return new Promise(resolve=>setTimeout(resolve,ms))}function create_fav(fav_title){$.ajax({type:'POST',url:CREATE_FAV,data:{title:fav_title,csrf:csrf},async:false,xhrFields:{withCredentials:true},dataType:"json",}).success((result)=>{fav_id=result.data.id})}if(csrf){alert("即将创建收藏夹\\n按确定后请等待约"+500*(aid_list.length)/1000+"秒\\n请不要操作页面，完成后会有弹窗提示");create_fav(fav_title,aid_list);for(i=0;i<aid_list.length;i++){aid=aid_list[i];setTimeout(add_fav,500*i,aid,fav_id)}setTimeout("alert('收藏夹创建完成')",500*(aid_list.length))}else{alert("csrf错误！请登录后访问https://space.bilibili.com/")}`
 }
 function genResult(data) {
     var pageData = $table.bootstrapTable('getData', { useCurrentPage: true })

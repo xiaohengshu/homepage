@@ -45,29 +45,38 @@
                     <div class="mb-3" id="add-fav-text-div">
                         <label class="form-label" for="add-fav">一键收藏</label>
                         <textarea class="form-control" id="add-fav" rows="9"></textarea>
+                        <div>
+                            使用方法：<br />
+                            第一步：复制框中的脚本<br />
+                            第二步：打开B站个人空间<a href="https://space.bilibili.com/"
+                                target="_blank">https://space.bilibili.com/</a><br />
+                            第三步：确保浏览器当前标签页为个人空间，然后在浏览器的地址栏输入javascript:<br />
+                            第四步：将脚本粘贴在地址栏中，按回车执行脚本<br />
+                            <a href="/vcmoe-2023-winter/add_fav_example.mp4" target="_blank">查看操作示例</a><br /><br />
+                        </div>
                     </div>
                 </fieldset>
             </div>
             <div class="col-md-8 order-md-2">
                 <div class="mb-3" id="result-table-div">
-                    <table id="table" data-locale="zh-CN" data-height="700" data-show-toggle="true" data-show-columns="true"
-                        data-show-export="true" data-filter-control="true" data-search-highlight="true" data-show-refresh="true" data-show-search-clear-button="true">
+                    <table id="table" data-locale="zh-CN" data-height="700" data-show-toggle="true"
+                        data-show-columns="true" data-show-export="true" data-filter-control="true"
+                        data-search-highlight="true" data-show-refresh="true" data-show-search-clear-button="true">
                         <thead>
                             <tr>
-                                <th data-field="_group_id" data-halign="center" 
-                                    data-valign="middle" data-align="center" data-searchable="true" data-filter-control="select" >组号</th>
-                                <th data-field="_group_idx" data-halign="center"
-                                    data-valign="middle" data-align="right" data-searchable="false">组内序号</th>
-                                    <th data-field="_page" data-halign="center"
-                                <th data-field="id" data-halign="center" data-valign="middle"
-                                    data-align="center" data-formatter="idFormatter">av号</th>
+                                <th data-field="_group_id" data-halign="center" data-valign="middle" data-align="center"
+                                    data-searchable="true" data-filter-control="select">组号</th>
+                                <th data-field="_group_idx" data-halign="center" data-valign="middle" data-align="right"
+                                    data-searchable="false">组内序号</th>
+                                <th data-field="_page" data-halign="center" <th data-field="id" data-halign="center"
+                                    data-valign="middle" data-align="center" data-formatter="idFormatter">av号</th>
                                 <th data-field="title" data-halign="center" data-valign="middle">标题</th>
-                                <th data-field="upper.name" data-halign="center"
-                                    data-valign="middle" data-halign="center">up主</th>
-                                <th data-field="ctime" data-halign="center" data-valign="middle"
-                                    data-align="center" data-formatter="ctimeFormatter">投稿日期</th>
-                                <th data-field="cnt_info.play" data-halign="center" 
-                                    data-valign="middle" data-align="right" data-searchable="false">播放量</th>
+                                <th data-field="upper.name" data-halign="center" data-valign="middle"
+                                    data-halign="center">up主</th>
+                                <th data-field="ctime" data-halign="center" data-valign="middle" data-align="center"
+                                    data-formatter="ctimeFormatter">投稿日期</th>
+                                <th data-field="cnt_info.play" data-halign="center" data-valign="middle"
+                                    data-align="right" data-searchable="false">播放量</th>
                             </tr>
                         </thead>
                     </table>
