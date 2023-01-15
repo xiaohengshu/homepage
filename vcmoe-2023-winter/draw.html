@@ -35,21 +35,21 @@
                             <input class="form-control" id="page-size" type="number" placeholder="如：20">
                         </div>
                     </div>
-                    <div class="mb-3" id="draw-btn-div">
+                    <div class="mb-3" id="draw-btn-div" style="display: none;">
                         <input class="btn btn-primary" type="button" value="开始分组" id="draw-btn">
                     </div>
-                    <div class="mb-3" id="result-text-div" style="display: none;">
+                    <div class="mb-3" id="result-text-div">
                         <label class="form-label" for="result">分组结果</label>
                         <textarea class="form-control" id="result" rows="9"></textarea>
                     </div>
-                    <div class="mb-3" id="add-fav-text-div" style="display: none;">
+                    <div class="mb-3" id="add-fav-text-div">
                         <label class="form-label" for="add-fav">一键收藏</label>
                         <textarea class="form-control" id="add-fav" rows="9"></textarea>
                     </div>
                 </fieldset>
             </div>
             <div class="col-md-8 order-md-2">
-                <div class="mb-3" id="result-table-div" style="display: none;">
+                <div class="mb-3" id="result-table-div">
                     <table id="table" data-locale="zh-CN" data-height="700" data-show-toggle="true" data-show-columns="true"
                         data-show-export="true" data-filter-control="true" data-search-highlight="true" data-show-refresh="true" data-show-search-clear-button="true">
                         <thead>
