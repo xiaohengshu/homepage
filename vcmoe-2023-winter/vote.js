@@ -24,7 +24,7 @@ function ctimeFormatter(value, row, index) {
     date = String(date).padStart(2, "0")
     hours = String(hours).padStart(2, "0")
     minute = String(minute).padStart(2, "0")
-    return month + "-" + date + " "+hours+":"+minute
+    return month + "-" + date + " " + hours + ":" + minute
 }
 
 function loadElections(result) {
@@ -40,7 +40,7 @@ function loadElections(result) {
 }
 
 function loadDrawResult() {
-    rpid=$electionList.val()
+    rpid = $electionList.val()
 
     var url = `${SERVER_URL}/elections/${rpid}/votes`
     $vote.bootstrapTable('refreshOptions', {
@@ -67,5 +67,9 @@ $(function () {
     })
 
     const url = `${SERVER_URL}/elections`;
-    $.getJSON(url, loadElections)
+    $.ajax(url)
+    .done(loadElections)
+    .fail(function( jqXHR, textStatus, errorThrown ) {
+        alert(`获取投票列表错误！请刷新页面重试 :(\njqXHR: ${JSON.stringify(jqXHR)}\ntextStatus: ${JSON.stringify(textStatus)}\nerrorThrown: ${JSON.stringify(errorThrown)}`);
+    })
 })

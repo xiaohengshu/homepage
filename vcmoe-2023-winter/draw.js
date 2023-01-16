@@ -48,7 +48,7 @@ function genResult(data) {
         $result.val(text)
         $addFav.val(add_fav_script(`预选赛-${group_id}组`,pageData))
     }else{
-        $result.val("请选择组号")
+        $result.val("请先在表格中选择组号~")
     }
 }
 
