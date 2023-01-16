@@ -44,7 +44,7 @@ function genResult(data) {
         pageData.forEach((item, index) => {
             text += `${(index + 1)} ${toBiliLink(item.id)}\n`
         });
-        text += "每人最多投4票，格式：1 2 3 4"
+        text += "每人最多投4票，格式：1 2 3 4\n截止时间为第二天14:00"
         $result.val(text)
         $addFav.val(add_fav_script(`预选赛-${group_id}组`,pageData))
     }else{
