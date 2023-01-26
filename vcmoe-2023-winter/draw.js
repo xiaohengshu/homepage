@@ -38,16 +38,16 @@ function add_fav_script(title, list) {
 }
 function genResult(data) {
     var pageData = $table.bootstrapTable('getData', { useCurrentPage: true })
-    if (pageData.length&& pageData.length>0 && pageData.length<=11) {
+    if (pageData.length && pageData.length > 0 && pageData.length <= 11) {
         var group_id = pageData[0]._group_id
-        var text = `【预选赛-${group_id}组】${pageData.length}进4\n`
+        var text = `【64进32-${group_id}组】${pageData.length}进4\n`
         pageData.forEach((item, index) => {
             text += `${(index + 1)} ${toBiliLink(item.id)}\n`
         });
         text += "每人最多投4票，格式：1 2 3 4\n截止时间为第二天14:00"
         $result.val(text)
-        $addFav.val(add_fav_script(`预选赛-${group_id}组`,pageData))
-    }else{
+        $addFav.val(add_fav_script(`64进32-${group_id}组`, pageData))
+    } else {
         $result.val("请先在表格中选择组号~")
     }
 }
@@ -64,10 +64,42 @@ function loadFavData(result) {
 }
 
 function loadDrawResult() {
-    var url = `${SERVER_URL}/favorites/2028916267/groups?perfer_size=10&shuffle_seed=成一書著一劃%E2%80%8B`
+    var fav_id = $favList.val()
+    var seed = $seed.val()
+    var pageSize = $pageSize.val()
+    var shuffle = true
+
+    if (!seed || seed.length === 0) {
+        alert("请输入分组种子！")
+        $seed.focus()
+        return;
+    }
+
+    if (!pageSize || pageSize.length === 0) {
+        alert("请输入分组大小！")
+        $pageSize.focus()
+        return;
+    }
+
+    if (String(parseInt(pageSize)) !== pageSize || parseInt(pageSize) <= 0) {
+        alert("请输入正确的分组大小！")
+        $pageSize.val("")
+        $pageSize.focus()
+        return;
+    }
+
+    $drawSettings.attr("disabled", true)
+    $drawBtnDiv.hide()
+    $resultTextDiv.show()
+    $resultTableDiv.show()
+
+
+    var url = `${SERVER_URL}/favorites/${fav_id}/groups?perfer_size=${pageSize}&shuffle_seed=${seed}`
 
     $table.bootstrapTable('refreshOptions', {
         url: url,
+        pageSize: pageSize,
+        pageList: [pageSize, 'All']
     })
 }
 
@@ -76,9 +108,15 @@ function tableLoadError(status, jqXHR) {
 }
 
 $(function () {
+    const url = `${SERVER_URL}/favorites`;
+    $.ajax(url)
+        .done(loadFavData)
+        .fail(function (jqXHR, textStatus, errorThrown) {
+            alert(`获取收藏夹列表错误！请刷新页面重试 :(\njqXHR: ${JSON.stringify(jqXHR)}\nstatus: ${JSON.stringify(textStatus)}\nerror: ${JSON.stringify(errorThrown)}`);
+        })
+    $drawBtn.click(loadDrawResult)
     $table.bootstrapTable({
         onPostBody: genResult,
         onLoadError: tableLoadError
     })
-    loadDrawResult()
 })
