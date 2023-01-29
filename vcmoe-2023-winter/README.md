@@ -14,7 +14,7 @@ python -m http.server 9999
 ## 配置
 您需要将每个js文件中的 `SERVER_URL` 变量更改为对应的后端地址，如
 ```js
-const SERVER_URL = "https://vc-moe-202301.azurewebsites.net"
+const SERVER_URL = "http://example.com"
 ```
 
 后端项目：https://github.com/eggry/vcmoe-2023-winter-backend
