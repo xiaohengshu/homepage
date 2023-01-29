@@ -3,12 +3,13 @@ const SERVER_URL = "https://vc-moe-202301.azurewebsites.net"
 var $electionList = $('#election_list')
 var $result = $('#result')
 var $vote = $('#vote')
+var $vote_rp = $('#vote_rp')
 
 function toBiliLink(avid) {
     return `https://www.bilibili.com/video/av${avid}/`
 }
 
-function idFormatter(value, row, index) {
+function avidFormatter(value, row, index) {
     var avid = row.avid
     var bililink = toBiliLink(avid)
     return `<a class="link" target="_blank" href="${bililink}">${avid}</a>`
@@ -41,7 +42,7 @@ function loadElections(result) {
 
 function loadDrawResult() {
     rpid = $electionList.val()
-
+    $vote_rp.attr("href", `https://www.bilibili.com/video/BV1G7411k7cx/#reply${rpid}`);
     var url = `${SERVER_URL}/elections/${rpid}/votes`
     $vote.bootstrapTable('refreshOptions', {
         url: url,
@@ -52,7 +53,48 @@ function loadDrawResult() {
         url: url,
     })
 }
+const voteModal = document.getElementById('voteModal')
+voteModal.addEventListener('show.bs.modal', event => {
+    const button = event.relatedTarget
 
+    const action = button.getAttribute('data-bs-action')
+
+    const modalBodyTextArea = voteModal.querySelector('.modal-body textarea')
+    var vote_name = $("#election_list :selected").text()
+
+    selections = $result.bootstrapTable('getSelections')
+    if (action === "final") {
+        l = vote_name.indexOf("-")
+        r = vote_name.indexOf("】")
+        vote_name = vote_name.slice(l + 1, r)
+        if (selections?.length) {
+            modalBodyTextArea.value = `${vote_name}晋级\n`
+            selections.forEach(element => {
+                modalBodyTextArea.value += `${toBiliLink(element.avid)} ${element.votes}票\n`
+            });
+        } else {
+            modalBodyTextArea.value = `${vote_name}晋级\n无`
+        }
+    } else if (action === "extra") {
+        l = vote_name.indexOf("【")
+        r = vote_name.indexOf("】")
+        vote_name = vote_name.slice(l + 1, r)
+        if (vote_name.endsWith("附加赛")) {
+            vote_name = `【${vote_name}的附加赛】`
+        } else {
+            vote_name = `【${vote_name}附加赛】`
+        }
+        if (selections?.length) {
+            modalBodyTextArea.value = `${vote_name}${selections.length}进X\n`
+            selections.forEach((element, index) => {
+                modalBodyTextArea.value += `${index + 1} ${toBiliLink(element.avid)}\n`
+            });
+            modalBodyTextArea.value += "每人最多投X票\n截止时间为第二天14:00"
+        } else {
+            modalBodyTextArea.value = `请选择进入附加赛的选项`
+        }
+    }
+})
 function tableLoadError(status, jqXHR) {
     alert(`获取投票结果错误！请刷新页面重试 :(\njqXHR: ${JSON.stringify(jqXHR)}\nstatus: ${JSON.stringify(status)}`);
 }
@@ -68,8 +110,8 @@ $(function () {
 
     const url = `${SERVER_URL}/elections`;
     $.ajax(url)
-    .done(loadElections)
-    .fail(function( jqXHR, textStatus, errorThrown ) {
-        alert(`获取投票列表错误！请刷新页面重试 :(\njqXHR: ${JSON.stringify(jqXHR)}\ntextStatus: ${JSON.stringify(textStatus)}\nerrorThrown: ${JSON.stringify(errorThrown)}`);
-    })
+        .done(loadElections)
+        .fail(function (jqXHR, textStatus, errorThrown) {
+            alert(`获取投票列表错误！请刷新页面重试 :(\njqXHR: ${JSON.stringify(jqXHR)}\ntextStatus: ${JSON.stringify(textStatus)}\nerrorThrown: ${JSON.stringify(errorThrown)}`);
+        })
 })
