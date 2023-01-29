@@ -92,46 +92,56 @@ var seed = parsedUrl.searchParams.get("seed")
 var size = parsedUrl.searchParams.get("size")
 var final = parsedUrl.searchParams.get("final")
 
-if (!favId) {
-    alert("请选择收藏夹！")
-    window.location.href = "./draw.html"
-}
 
-if (!drawName || drawName.length === 0) {
-    alert("请输入名称！")
-    window.location.href = "./draw.html"
-}
-
-if (!seed || seed.length === 0) {
-    alert("请输入分组种子！")
-    window.location.href = "./draw.html"
-}
-
-if (!size || size.length === 0) {
-    alert("请输入每组候选数！")
-    window.location.href = "./draw.html"
-}
-
-if (String(parseInt(size)) !== size || parseInt(size) <= 0) {
-    alert("请输入正确的每组候选数！")
-    window.location.href = "./draw.html"
-}
-
-if (!final || final.length === 0) {
-    alert("请输入每组晋级数！")
-    window.location.href = "./draw.html"
-}
-
-if (String(parseInt(final)) !== final || parseInt(final) <= 0) {
-    alert("请输入正确的每组晋级数！")
-    window.location.href = "./draw.html"
-}
-
-if (parseInt(final) > parseInt(size)) {
-    alert("每组晋级数不得超过每组候选数！")
-    window.location.href = "./draw.html"
-}
 $(function () {
+    if (!favId) {
+        alert("请选择收藏夹！")
+        window.location.href = "./draw.html"
+        return;
+    }
+
+    if (!drawName || drawName.length === 0) {
+        alert("请输入名称！")
+        window.location.href = "./draw.html"
+        return;
+    }
+
+    if (!seed || seed.length === 0) {
+        alert("请输入分组种子！")
+        window.location.href = "./draw.html"
+        return;
+    }
+
+    if (!size || size.length === 0) {
+        alert("请输入每组候选数！")
+        window.location.href = "./draw.html"
+        return;
+    }
+
+    if (String(parseInt(size)) !== size || parseInt(size) <= 0) {
+        alert("请输入正确的每组候选数！")
+        window.location.href = "./draw.html"
+        return;
+    }
+
+    if (!final || final.length === 0) {
+        alert("请输入每组晋级数！")
+        window.location.href = "./draw.html"
+        return;
+    }
+
+    if (String(parseInt(final)) !== final || parseInt(final) <= 0) {
+        alert("请输入正确的每组晋级数！")
+        window.location.href = "./draw.html"
+        return;
+    }
+
+    if (parseInt(final) > parseInt(size)) {
+        alert("每组晋级数不得超过每组候选数！")
+        window.location.href = "./draw.html"
+        return;
+    }
+
     $name.text(drawName)
 
     var url = `${SERVER_URL}/favorites/${encodeURIComponent(favId
