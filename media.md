@@ -9,6 +9,10 @@
 - [【光遇钢琴】01.26横竖撇点折两周年贺！](https://www.bilibili.com/video/BV1XP4y1P7kk/)
 
 ---
+
+[回到主页]({{ site.url }})
+
+---
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">

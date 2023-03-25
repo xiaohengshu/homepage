@@ -10,6 +10,10 @@ https://www.bilibili.com/video/BV1G7411k7cx/#reply148787357008
 https://www.bilibili.com/video/BV1G7411k7cx/#reply148396517184
 
 ---
+
+[回到主页]({{ site.url }})
+
+---
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
