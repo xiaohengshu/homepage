@@ -24,14 +24,25 @@
 - **2020年01月26日，[小横竖发布](https://www.bilibili.com/video/av85002656)**
 - 2020年01月25日，[小横竖投稿](https://api.bilibili.com/x/web-interface/view?aid=85002656)
 
+---
+
 ## 关于本站
 
-本站收录与小横竖相关的作品与活动。投稿或建议可通过[GitHub]({{ site.github.repository_url }}/issue)或[邮件](mailto:contribution@xiaohengshu.com)提交。
+本站收录与小横竖相关的作品与活动。投稿或建议可通过[GitHub]({{ site.github.repository_url }}/issues)或[邮件](mailto:contribution@xiaohengshu.com)提交。
 
-本站表达的观点未必反映原作者的观点，记载的信息可能存在错误。如果您希望本站更改您的作品信息或停止收录您的作品，请致信[takedown@xiaohengshu.com](mailto:takedown@xiaohengshu.com)
+本站表达的观点未必反映原作者的观点，记载的信息可能存在错误。如果您希望本站更改您的作品信息或停止收录您的作品，请致信[report@xiaohengshu.com](mailto:report@xiaohengshu.com)
 
-除非另有说明，本站所有内容使用[{{ site.github.license.name }}]({{ site.github.license.url }})授权。**请注意，该授权不针对本站收录的任何作品。**
+本站所有内容使用[{{ site.github.license.name }}]({{ site.github.license.url }})授权，如果另有说明，以说明为准。**请注意，该授权不针对本站收录的任何作品。**
 
+---
+
+## 关于本站
+
+本站收录与小横竖相关的作品与活动。投稿或建议可通过[GitHub]({{ site.github.repository_url }}/issues)或[邮件](mailto:contribution@xiaohengshu.com)提交。
+
+本站表达的观点未必反映原作者的观点，记载的信息可能存在错误。如果您希望本站更改您的作品信息或停止收录您的作品，请致信[report@xiaohengshu.com](mailto:report@xiaohengshu.com)
+
+本站所有内容使用[{{ site.github.license.name }}]({{ site.github.license.url }})授权，如果另有说明，以说明为准。**请注意，该授权不针对本站收录的任何作品。**
 
 ---
 

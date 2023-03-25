@@ -19,6 +19,16 @@
 
 ---
 
+## 关于本站
+
+本站收录与小横竖相关的作品与活动。投稿或建议可通过[GitHub]({{ site.github.repository_url }}/issues)或[邮件](mailto:contribution@xiaohengshu.com)提交。
+
+本站表达的观点未必反映原作者的观点，记载的信息可能存在错误。如果您希望本站更改您的作品信息或停止收录您的作品，请致信[report@xiaohengshu.com](mailto:report@xiaohengshu.com)
+
+本站所有内容使用[{{ site.github.license.name }}]({{ site.github.license.url }})授权，如果另有说明，以说明为准。**请注意，该授权不针对本站收录的任何作品。**
+
+---
+
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
