@@ -7,8 +7,8 @@
 
 ## 相关作品
 - [文学作品](./literature)
+- [书画作品](./art)
 - [音像作品（正在建设）](./media)
-- [书画作品（正在建设）](./art)
 
 ## [相关活动](./activity)
 
@@ -34,6 +34,7 @@
 
 
 ---
+
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">

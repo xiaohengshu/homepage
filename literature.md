@@ -34,7 +34,7 @@
 
 ## 曲拟向
 
-- 心华\|横竖撇点折x一人行者 曲拟同人文
+- 心华\|横竖撇点折x一人行者 曲拟同人文  
   作者：[@春分社](https://space.bilibili.com/28607866)  
   链接：[bilibili专栏](https://www.bilibili.com/read/cv4537667)  
 
@@ -77,6 +77,7 @@
 [回到主页]({{ site.url }})
 
 ---
+
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
