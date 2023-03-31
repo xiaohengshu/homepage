@@ -1,11 +1,18 @@
-# 时评与收录（正在建设）
-
-- [virtual·歌姬文化 第十八期](https://www.bilibili.com/read/cv8604321)·播放量与打卡 [@梧桐尘心](https://space.bilibili.com/482223938)
-- [可能是全B站最详细的《2020拜年祭》节目分析（4/6）之横竖撇点折](https://www.bilibili.com/read/cv4420611) [@大可不露-深蓝](https://space.bilibili.com/66711381)
-- [【中V史】VOCALOID CHINA 大事年表 二次修订 ver.](https://www.bilibili.com/read/cv7410303) [@霊符クロ](https://www.bilibili.com/read/cv7410303)
-- [【中文V家】2020年2月大事件月报](https://www.bilibili.com/read/cv4847178) [@社畜龙猫](https://space.bilibili.com/357741291)
-- [【VOCALOID年刊心華APM新曲排行榜】2020年【心华六周年】](https://www.bilibili.com/video/BV1tv411e7NT/?t=1814)·2位
+# 时评与收录
+- 播放量与打卡 \|  virtual·歌姬文化 第十八期  
+  作者：[@梧桐尘心](https://space.bilibili.com/482223938)  
+  链接：[bilibili专栏](https://www.bilibili.com/read/cv8604321)  
+- 可能是全B站最详细的《2020拜年祭》节目分析（4/6）之横竖撇点折  
+  UP主：[@大可不露-深蓝](https://space.bilibili.com/66711381)  
+  链接：[bilibili专栏](https://www.bilibili.com/read/cv4420611)  
+- 【中V史】VOCALOID CHINA 大事年表 二次修订 ver.  
+  UP主：[@霊符クロ](https://space.bilibili.com/51209191)  
+  链接：[bilibili专栏](https://www.bilibili.com/read/cv7410303)  
+- 【中文V家】2020年2月大事件月报  
+  UP主：[@社畜龙猫](https://space.bilibili.com/357741291)  
+  链接：[bilibili专栏](https://www.bilibili.com/read/cv4847178)  
 - [【VOCALOID月刊心華APM新曲排行榜】第二十一期◆21](https://www.bilibili.com/video/BV1L7411U7T9/?t=1284)·1位
+- [【VOCALOID年刊心華APM新曲排行榜】2020年【心华六周年】](https://www.bilibili.com/video/BV1tv411e7NT/?t=1814)·2位
 - [周刊VOCALOID中文排行榜♪391](https://www.bilibili.com/video/BV1J7411p7nE/?t=669)·7位
 - [周刊VOCALOID中文排行榜♪392](https://www.bilibili.com/video/BV1R7411V7yL/?t=196)·24位
 - [周刊VOCALOID中文排行榜♪393](https://www.bilibili.com/video/BV1K741177iM/?t=1209)·36位
