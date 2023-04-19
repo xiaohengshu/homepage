@@ -5,9 +5,11 @@
 > 【心华翻唱】横竖撇点折（2020拜年祭） ([av85002656](https://www.bilibili.com/video/av85002656/) / [BV1G7411k7cx](https://www.bilibili.com/video/BV1G7411k7cx/))
 > <iframe src="//player.bilibili.com/player.html?aid=85002656" width="70%" height="300" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-《横竖撇点折》是2020拜年祭的一首原创歌曲。此歌曲以字谜入词，体现了汉字之美。
+《横竖撇点折》是2020年拜年祭的一首原创歌曲。歌曲以字谜入词，讲述了汉字的独特魅力。
 
-此歌曲原定由中文VOCALOID歌姬[心华](https://zh.moegirl.org.cn/%E5%BF%83%E5%8D%8E)演唱，后因企划方与声库方合作失败，改为由其他歌手演唱。2020拜年祭播出后，主创之一[@纳兰寻风](https://space.bilibili.com/893950)投稿了[心华演唱的版本](https://www.bilibili.com/video/av85002656/)。该版本被网友亲切地称作“小横竖”。
+《横竖撇点折》原定由中文VOCALOID歌姬[心华](https://zh.moegirl.org.cn/%E5%BF%83%E5%8D%8E)演唱。因为歌曲企划方未能与声库版权方达成一致，歌曲的演唱者被更换为其他人选。
+
+2020拜年祭播出后，企划方成员[@纳兰寻风](https://space.bilibili.com/893950)投稿了[心华演唱的版本](https://www.bilibili.com/video/av85002656/)。该版本被网友亲切地称作“小横竖”。
 
 ## 小横竖大事件
 
@@ -21,13 +23,22 @@
 
 
 ## 与小横竖有关的作品
-- [与小横竖有关的文学作品](./literature)
-- [与小横竖有关的书画作品](./art)
-- [与小横竖有关的音像作品](./media)
+- [文学作品](./literature)
+- [书画作品](./art)
+- [音像作品](./media)
+- [时评与收录](./review)
+
+## [小横竖朋友们的作品](./community)
+- [音乐创作](./community#音乐创作)
 
 ## [与小横竖有关的活动](./activity)
+- [曲萌](./activity#曲萌)
+- [颁奖典礼](./activity#颁奖典礼)
+- [汉字接龙](./activity#颁奖典礼)
+- [灯谜](./activity#灯谜)
+- [词语接龙](./activity#词语接龙)
+- [飞花令](./activity#飞花令)
 
-## [与小横竖有关的时评与收录](./review)
 
 
 ---
