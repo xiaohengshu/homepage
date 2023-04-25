@@ -55,7 +55,7 @@
 
 - 2022年02月15日 \| [灯谜一则](https://www.bilibili.com/video/av85002656/#reply102469010896)
 - 2022年02月15日 \| [中文虚拟歌手·元宵灯谜](https://t.bilibili.com/627443319785076216)
-- 2023年02月05日 \| [灯谜一则](https://www.bilibili.com/video/av85002656/#reply150988873456)
+- 2023年02月05日 \| [灯谜一则](https://www.bilibili.com/video/av85002656/#reply150968242336)
 - 2023年02月05日 \| [元宵灯谜](https://www.bilibili.com/video/av85002656/#reply150988873456)
 
 ## 词语接龙
@@ -87,7 +87,7 @@
   结果：[2021劳动节小横竖飞花令活动](https://eggry.com/2021-05-01-FeiHuaLing/)
 - 2022年01月26日 \| 飞花  
   主题：[象形会意处事谐声转注假借用千古 甲契金雕篆繁隶简楷端行草书万年](https://www.bilibili.com/video/av85002656/#reply3300773255)
-- 2022年09月10日 \| 心华八周年生日飞花令  
+- 2022年09月10日 \| 中秋飞花令  
   主题：[成一书著一划 行万年于笔下](https://www.bilibili.com/video/av85002656/#reply129535475952)、[嫌弃下雨的天气 可怜垮掉的发型](https://www.bilibili.com/video/av85002656/#reply129537461760)
 - 2023年02月10日 \| 心华八周年生日飞花令  
   主题：[心华八周年](https://www.bilibili.com/video/av85002656/#reply149201853088)
@@ -100,7 +100,7 @@
 
 ## 关于本站
 
-本站收录与心华版横竖撇点折有关的作品及活动。投稿或建议可通过{% github_edit_link "GitHub" %}或[邮件](mailto:contribute@xiaohengshu.com)提交。
+本站收录与心华版横竖撇点折有关的作品及活动。投稿或建议可通过{% github_edit_link "GitHub" %}、[邮件](mailto:contribute@xiaohengshu.com)、[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply158702525872)、[bilibili私信](https://message.bilibili.com/#/whisper/mid5635421)提交。
 
 本站记载的信息未必符合真实情况，表达的观点未必反映原作者的观点。如果您希望本站更改您的作品信息或停止收录您的作品，请致信[report@xiaohengshu.com](mailto:report@xiaohengshu.com)
 

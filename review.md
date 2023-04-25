@@ -5,6 +5,9 @@
 - 可能是全B站最详细的《2020拜年祭》节目分析（4/6）之横竖撇点折  
   UP主：[@大可不露-深蓝](https://space.bilibili.com/66711381)  
   链接：[bilibili专栏](https://www.bilibili.com/read/cv4420611)  
+- 特别推荐：『心华翻唱』横竖撇点折 2020拜年祭  
+  作者：[@星愿](https://www.luotianyi.love/user/167)  
+  链接：[洛天依.Love](https://www.luotianyi.love/3626.html)  
 - 【中V史】VOCALOID CHINA 大事年表 二次修订 ver.  
   UP主：[@霊符クロ](https://space.bilibili.com/51209191)  
   链接：[bilibili专栏](https://www.bilibili.com/read/cv7410303)  
@@ -28,7 +31,7 @@
 
 ## 关于本站
 
-本站收录与心华版横竖撇点折有关的作品及活动。投稿或建议可通过{% github_edit_link "GitHub" %}或[邮件](mailto:contribute@xiaohengshu.com)提交。
+本站收录与心华版横竖撇点折有关的作品及活动。投稿或建议可通过{% github_edit_link "GitHub" %}、[邮件](mailto:contribute@xiaohengshu.com)、[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply158702525872)、[bilibili私信](https://message.bilibili.com/#/whisper/mid5635421)提交。
 
 本站记载的信息未必符合真实情况，表达的观点未必反映原作者的观点。如果您希望本站更改您的作品信息或停止收录您的作品，请致信[report@xiaohengshu.com](mailto:report@xiaohengshu.com)
 
