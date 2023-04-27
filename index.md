@@ -69,3 +69,5 @@ This work is published from:
       content="CN" about="{{ site.url }}/about">
   中国大陆</span>.
 </p>
+
+<a href="https://icp.gov.moe/?keyword=20233939" target="_blank">萌ICP备20233939号</a>
