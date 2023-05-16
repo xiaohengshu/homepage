@@ -1,5 +1,7 @@
 # 与小横竖有关的书画作品
-
+- 2020年01月28日 \| 横竖撇点折人设的心华  
+  作者：[@玉茗酱](https://www.weibo.com/u/6800716512)  
+  链接：[微博](https://www.weibo.com/6800716512/IrAbNALtq)  
 - 2020年02月10日 \| 心华五周年生贺·心华与横竖撇点折  
   作者：[@秋和子冲浪中](https://space.bilibili.com/26665460/)  
   链接：[bilibili动态](https://t.bilibili.com/354155779100839935)  、[微博](https://weibo.com/5249869625/Jgy7pADE9)  
