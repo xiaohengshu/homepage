@@ -17,12 +17,12 @@ $hr-border-color: #eff0f1;
   display: flex;
   white-space:nowrap;
 }
-.site-footer-links > span > a {
+.site-footer-links a {
   color: $footer-link-color;
 }
 
-.site-footer-nav {
-  padding-right: 3rem;
+.site-footer-navs :last-child {
+  padding-right: 1rem;
 }
 
 .site-footer-moe-icp {

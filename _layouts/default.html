@@ -49,13 +49,15 @@
 
       <footer class="site-footer">
         <div class="site-footer-links">
-          <span class="site-footer-nav">
-            <a href="/">主页</a>
-          </span>
-  
-          <span class="site-footer-nav">
-            <a href="/about">关于本站</a>
-          </span>
+          <div class="site-footer-navs">
+            <span class="site-footer-nav">
+              <a href="/">主页</a>
+            </span>
+    
+            <span class="site-footer-nav">
+              <a href="/about">关于本站</a>
+            </span>
+          </div>
   
           {% if site.moe_icp %}
             <span class="site-footer-moe-icp"><a href="https://icp.gov.moe/?keyword={{ site.moe_icp }}" target="_blank" rel="nofollow">萌ICP备{{ site.moe_icp }}号</a></span>
