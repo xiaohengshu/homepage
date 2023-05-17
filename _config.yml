@@ -1,10 +1,12 @@
 title: 小横竖相关收集站
 tagline: 以心相系华夏
 description: 收录与心华版横竖撇点折有关的作品及活动
+lang: zh-cmn-Hans
+logo: favicon.ico
+keywords: 小横竖,心华,横竖撇点折
+
+moe_icp: 20233939
+
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-lang: zh-cmn-Hans
-github:
-  is_project_page: false  
-moe_icp: 20233939
+- jekyll-remote-theme

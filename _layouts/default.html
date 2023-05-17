@@ -3,11 +3,12 @@
   <head>
     <meta charset="UTF-8">
 
+    <meta name="keywords" content="{{ site.keywords }}">
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
+    <meta name="theme-color" content="#ee82ee">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
@@ -23,9 +24,40 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
+      {% if page.license == "CC0" %}
+      <div class="site-content-license">
+        <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+          <a rel="license"
+            href="http://creativecommons.org/publicdomain/zero/1.0/">
+            <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+          </a>
+          <br />
+          To the extent possible under law,
+          <a rel="dct:publisher"
+            href="{{ site.url }}/about">
+            <span property="dct:title">Contributors of {{ site.title }}</span></a>
+          has waived all copyright and related or neighboring rights to
+          <span property="dct:title" href="{{ page.url }}">{{ page.title }} | {{ site.title }}</span>.
+        This work is published from:
+        <span property="vcard:Country" datatype="dct:ISO3166"
+              content="CN" about="{{ site.url }}/about">
+          中国大陆</span>.
+        </p>
+      </div>
+        
+      {% endif %}
+
       <footer class="site-footer">
+        <span class="site-footer-link">
+          <a href="/">主页</a>
+        </span>
+
+        <span class="site-footer-link">
+          <a href="/about">关于本站</a>
+        </span>
+
         {% if site.moe_icp %}
-          <a href="https://icp.gov.moe/?keyword={{ site.moe_icp }}" target="_blank" class="site-footer-moe-icp">萌ICP备{{ site.moe_icp }}号</a>
+          <span class="site-footer-moe-icp"><a href="https://icp.gov.moe/?keyword={{ site.moe_icp }}" target="_blank" rel="nofollow">萌ICP备{{ site.moe_icp }}号</a></span>
         {% endif %}
       </footer>
     </main>

@@ -1,3 +1,7 @@
+---
+license: CC0
+---
+
 # 与小横竖有关的时评与收录
 - 播放量与打卡 \|  virtual·歌姬文化 第十八期  
   作者：[@梧桐尘心](https://space.bilibili.com/482223938)  
@@ -22,37 +26,3 @@
 - [周刊VOCALOID中文排行榜♪394](https://www.bilibili.com/video/BV1E7411T75G/?t=1284)·64位
 - [周刊VOCALOID中文排行榜♪395](https://www.bilibili.com/video/BV1hE41177z4/?t=1514)·106位
 - [【年榜】VOCALOID中文曲 2020】](https://www.bilibili.com/video/BV1VA411M7hJ/?t=151)·96位
-
----
-
-[回到主页]({{ site.url }})
-
----
-
-## 关于本站
-
-本站收录与心华版横竖撇点折有关的作品及活动。投稿或建议可通过{% github_edit_link "GitHub" %}、[邮件](mailto:contribute@xiaohengshu.com)、[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply158702525872)、[bilibili私信](https://message.bilibili.com/#/whisper/mid5635421)提交。
-
-本站记载的信息未必符合真实情况，表达的观点未必反映原作者的观点。如果您希望本站更改您的作品信息或停止收录您的作品，请致信[report@xiaohengshu.com](mailto:report@xiaohengshu.com)
-
-本站所有内容使用[{{ site.github.license.name }}]({{ site.github.license.url }})授权。另有说明的，以说明为准。**请注意，该授权不针对本站收录的任何作品。**
-
----
-
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="{{ site.url }}/about">
-    <span property="dct:title">Contributors of {{ site.title }}</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">{{ page.title }} | {{ site.title }}</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="CN" about="{{ site.url }}/about">
-  中国大陆</span>.
-</p>

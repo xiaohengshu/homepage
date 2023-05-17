@@ -4,10 +4,32 @@
 $header-bg-color: #ee82ee;
 $header-bg-color-secondary: #9999ff;
 $section-headings-color: #ee82ee;
-$footer-moe-icp-color: #819198;
+$footer-text-color: #819198;
+$hr-border-color: #eff0f1;
 
-.site-footer-moe-icp {
-    color: $footer-moe-icp-color;
+.site-content-license {
+  padding-top: 2rem;
+  margin-top: 2rem;
+  border-top: solid 1px $hr-border-color;
+}
+
+.site-footer-link {
+  float: left;
+  display: flex;
+}
+
+.site-footer-link > a {
+  margin-right: 3rem;
+  color: $footer-text-color;
+}
+
+.site-footer-moe-icp{
+  float: right;
+  display: flex;
+}
+
+.site-footer-moe-icp > a {
+  color: $footer-text-color;
 }
 
 h1 > a,
