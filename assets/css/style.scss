@@ -1,0 +1,25 @@
+---
+---
+
+$header-bg-color: #ee82ee;
+$header-bg-color-secondary: #9999ff;
+$section-headings-color: #ee82ee;
+$footer-moe-icp-color: #819198;
+
+.site-footer-moe-icp {
+    color: $footer-moe-icp-color;
+}
+
+h1 > a,
+h2 > a,
+h3 > a,
+h4 > a,
+h5 > a,
+h6 > a {
+margin-top: 2rem;
+margin-bottom: 1rem;
+font-weight: normal;
+color: $section-headings-color;
+}
+
+@import "{{ site.theme }}";
