@@ -4,7 +4,7 @@
 $header-bg-color: #ee82ee;
 $header-bg-color-secondary: #9999ff;
 $section-headings-color: #ee82ee;
-$footer-text-color: #819198;
+$footer-link-color: #819198;
 $hr-border-color: #eff0f1;
 
 .site-content-license {
@@ -13,23 +13,20 @@ $hr-border-color: #eff0f1;
   border-top: solid 1px $hr-border-color;
 }
 
-.site-footer-link {
-  float: left;
+.site-footer-links {
   display: flex;
+  white-space:nowrap;
+}
+.site-footer-links > span > a {
+  color: $footer-link-color;
 }
 
-.site-footer-link > a {
-  margin-right: 3rem;
-  color: $footer-text-color;
+.site-footer-nav {
+  padding-right: 3rem;
 }
 
-.site-footer-moe-icp{
-  float: right;
-  display: flex;
-}
-
-.site-footer-moe-icp > a {
-  color: $footer-text-color;
+.site-footer-moe-icp {
+  margin-left: auto;
 }
 
 h1 > a,
