@@ -14,15 +14,22 @@ $hr-border-color: #eff0f1;
 }
 
 .site-footer-links {
+  height: 24px;
+  overflow: hidden;
   display: flex;
-  white-space:nowrap;
+  flex-wrap: wrap;
+  justify-content: flex-start;
 }
 .site-footer-links a {
   color: $footer-link-color;
+  // display: inline;
+  height: 24px;
+  line-height: 24px;
+  flex-shrink: 0;
 }
 
-.site-footer-navs :last-child {
-  padding-right: 1rem;
+.site-footer-navs a {
+  margin-right: 1rem;
 }
 
 .site-footer-moe-icp {
