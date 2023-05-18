@@ -25,11 +25,11 @@
       {{ content }}
 
       {% if page.license == "CC0" %}
-      <div class="site-content-license">
+      <div class="site-page-content-license">
         <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
           <a rel="license"
             href="http://creativecommons.org/publicdomain/zero/1.0/">
-            <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+            <img src="https://licensebuttons.net/p/zero/1.0/88x15.png" style="border-style: none;" alt="CC0" />
           </a>
           <br />
           To the extent possible under law,
@@ -37,18 +37,25 @@
             href="{{ site.url }}/about">
             <span property="dct:title">Contributors of {{ site.title }}</span></a>
           has waived all copyright and related or neighboring rights to
-          <span property="dct:title" href="{{ page.url }}">{{ page.title }} | {{ site.title }}</span>.
-        This work is published from:
-        <span property="vcard:Country" datatype="dct:ISO3166"
-              content="CN" about="{{ site.url }}/about">
-          中国大陆</span>.
+          <a rel="dct:title"
+            href="{{ page.url }}">
+            <span property="dct:title" >{{ page.title }} | {{ site.title }}</span>
+          </a>.
+          This work is published from:
+          <span property="vcard:Country" datatype="dct:ISO3166"
+                content="CN" about="{{ site.url }}/about">
+            中国大陆</span>.
         </p>
       </div>
         
       {% endif %}
 
       <footer class="site-footer">
-        <div class="site-footer-links">
+        {% if site.moe_icp and page.url == "/" %}
+          <span class="site-footer-moe-icp"><a href="https://icp.gov.moe/?keyword={{ site.moe_icp }}" target="_blank" rel="nofollow">萌ICP备{{ site.moe_icp }}号</a></span>
+        {% endif %}
+
+        {% if page.url != "/" %}
           <div class="site-footer-navs">
             <span class="site-footer-nav">
               <a href="/">主页</a>
@@ -58,11 +65,8 @@
               <a href="/about">关于</a>
             </span>
           </div>
+        {% endif %}
   
-          {% if site.moe_icp %}
-            <span class="site-footer-moe-icp"><a href="https://icp.gov.moe/?keyword={{ site.moe_icp }}" target="_blank" rel="nofollow">萌ICP备{{ site.moe_icp }}号</a></span>
-          {% endif %}
-        </div>
       </footer>
     </main>
   </body>

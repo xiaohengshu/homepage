@@ -6,34 +6,50 @@ $header-bg-color-secondary: #9999ff;
 $section-headings-color: #ee82ee;
 $footer-link-color: #819198;
 $hr-border-color: #eff0f1;
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
 
-.site-content-license {
+@mixin large {
+  @media screen and (min-width: #{$large-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
+    @content;
+  }
+}
+
+@mixin small {
+  @media screen and (max-width: #{$medium-breakpoint}) {
+    @content;
+  }
+}
+
+.site-page-content-license {
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px $hr-border-color;
+  @include large {
+    font-size: 1rem;
+  }
+
+  @include medium {
+    font-size: 1rem;
+  }
+
+  @include small {
+    font-size: 0.9rem;
+  }
 }
 
-.site-footer-links {
-  height: 24px;
-  overflow: hidden;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-}
-.site-footer-links a {
+.site-footer a {
   color: $footer-link-color;
-  // display: inline;
-  height: 24px;
-  line-height: 24px;
-  flex-shrink: 0;
 }
 
 .site-footer-navs a {
   margin-right: 1rem;
-}
-
-.site-footer-moe-icp {
-  margin-left: auto;
 }
 
 h1 > a,
