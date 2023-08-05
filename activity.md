@@ -35,7 +35,7 @@ license: CC0
 
 ### [小横竖年度颁奖典礼(2023)](https://www.bilibili.com/video/av85002656/#reply149126590800)
 
-- 实力新人奖：@维克劳德、@L24-无尾鱼、@恶之华掇英、@恶之华掇英、@月光下的红瞳黑猫
+- 实力新人奖：@维克劳德、@L24-无尾鱼、@恶之华掇英、@超心塞的问号、@月光下的红瞳黑猫
 - 龙的传人奖：@遥心梧、@小甘正在努力中w、@幻想星泉、@维克劳德、@夜间绫车
 - 常回家看看奖：@遥心梧、@Eggry、@akanbo、@小甘正在努力中w、@-逢景-
 - 评论狂魔奖：@叶玖离、@Eggry、@承君之恩、@-逢景-、@物化史
@@ -95,3 +95,6 @@ license: CC0
   主题：[成一书著一划 行万年于笔下](https://www.bilibili.com/video/av85002656/#reply129535475952)、[嫌弃下雨的天气 可怜垮掉的发型](https://www.bilibili.com/video/av85002656/#reply129537461760)
 - 2023年02月10日 \| 心华八周年生日飞花令  
   主题：[心华八周年](https://www.bilibili.com/video/av85002656/#reply149201853088)
+
+## CTF
+- [Hgame2020·日常](https://github.com/vidar-team/Hgame2020_writeup/blob/master/week3/HGAME%202020%20Week3%20Official%20Writeup.pdf)
