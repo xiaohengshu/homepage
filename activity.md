@@ -4,6 +4,11 @@ license: CC0
 
 # 与小横竖有关的活动
 
+## 曲推
+### [小横竖夏日曲推](https://www.bilibili.com/video/BV1G7411k7cx/#reply178992236352)
+1. [一首深夜听的曲子](https://www.bilibili.com/video/BV1G7411k7cx/#reply178992586384)
+2. [一首代表夏日的曲子](https://www.bilibili.com/video/BV1G7411k7cx/#reply179167023936)
+
 ## 曲萌
 
 ### [小横竖2023冬曲萌](https://www.bilibili.com/video/av85002656/#reply150786237328)
