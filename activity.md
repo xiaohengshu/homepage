@@ -8,7 +8,10 @@ license: CC0
 ### [小横竖夏日曲推](https://www.bilibili.com/video/BV1G7411k7cx/#reply178992236352)
 1. 一首深夜听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply178992586384) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2456568359)】
 2. 一首代表夏日的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179167023936) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2387551459)】
-3. 一首调教很神的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179368881360)】
+3. 一首调教很神的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179368881360)】 \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2393621559)】
+4. 一首旅行时听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179560933120)】 \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2420666659)】
+5. 一首开心时就会不自觉哼起来的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179750545152)】
+6. 一首适合跑步时听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179946173712)】
 
 ## 曲萌
 
