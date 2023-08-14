@@ -12,9 +12,11 @@ license: CC0
 4. 一首旅行时听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179560933120) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2420666659)】
 5. 一首开心时就会不自觉哼起来的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179750545152) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2381771259)】
 6. 一首适合跑步时听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179946173712) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2420794559)】
-7. 一首关于别离的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180146216448)】
-8. 一首很生草的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180339127904)】
-9. 一首雨天听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180538539904)】
+7. 一首关于别离的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180146216448) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2484442459)】
+8. 一首很生草的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180339127904) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2447930259)】
+9. 一首雨天听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180538539904) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2390940059)】
+10. 一首听了能助眠的的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180706675376)】
+11. 一首温柔的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180891676832)】
 
 ## 曲萌
 
