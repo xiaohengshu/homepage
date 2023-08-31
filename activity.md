@@ -15,7 +15,7 @@ license: CC0
 7. 一首关于别离的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180146216448) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2484442459)】
 8. 一首很生草的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180339127904) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2447930259)】
 9. 一首雨天听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180538539904) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2390940059)】
-10. 一首听了能助眠的的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180706675376)】
+10. 一首听了能助眠的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180706675376)】
 11. 一首温柔的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180891676832)】
 12. 一首伤感的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply181100958960)】
 13. 一首对你有着特殊意义的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply181271001488)】
@@ -23,6 +23,17 @@ license: CC0
 15. 一首删稿了的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply181651291184)】
 16. 一首古早的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply181839830960)】
 17. 一首不太热门但你很喜欢的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply182017383024)】
+18. 一首学习或工作时听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply182196464704)】
+19. 一首甜蜜的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply182394274992)】
+20. 一首很欲的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply182576665840)】
+21. 一首并不完美的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply182755622096)】
+22. 一首多人合唱的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply182935695024)】
+23. 一首既安心又惆怅的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply183123715728)】
+24. 一首跨语种的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply183288392928)】
+25. 一首很有魔法感的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply183431976784)】
+26. 一首恐怖的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply183607345968)】
+27. 一首叙事向的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply183806624944)】
+28. 一首送给未来的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply183941916896)】
 
 ## 曲萌
 
