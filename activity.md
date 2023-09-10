@@ -6,6 +6,7 @@ license: CC0
 
 ## 曲推
 ### [小横竖夏日曲推](https://www.bilibili.com/video/BV1G7411k7cx/#reply178992236352)
+[推曲表格](vocal-grid-2023summer/simple.jpg) \| [在线填写](vocal-grid-2023summer/)
 1. 一首深夜听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply178992586384) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2456568359)】
 2. 一首代表夏日的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179167023936) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2387551459)】
 3. 一首调教很神的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179368881360) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2393621559)】
