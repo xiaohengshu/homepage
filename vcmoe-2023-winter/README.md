@@ -1,6 +1,6 @@
 # 小横竖2023冬曲萌前端
 ## Demo
-[分组抽签](https://xiaohengshu.com/vcmoe-2023-winter/draw.html) | [查看投票结果](https://xiaohengshu.com/vcmoe-2023-winter/vote.html) 
+[分组抽签](https://xiaohengshu.eggry.com/vcmoe-2023-winter/draw.html) | [查看投票结果](https://xiaohengshu.eggry.com/vcmoe-2023-winter/vote.html) 
 
 ## 部署
 前端为纯静态页面。您可以使用任何静态网站托管服务托管相关页面，如 [GitHub Pages](https://pages.github.com/)。
