@@ -57,7 +57,7 @@ license: CC0
 - 繁树星辰  
   作者：[@叶玖离](https://space.bilibili.com/42839388)  
   链接：[bilibili专栏](https://www.bilibili.com/read/cv4687640)  
-- 月白色倒影的少女的曲拟合集  
+- 月白色倒影的少女的曲拟十四篇  
   作者：[@月白色倒影的少女](https://space.bilibili.com/291314783)  
   链接：[bilibili专栏](https://www.bilibili.com/read/cv27461046)  
 
