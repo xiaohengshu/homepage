@@ -20,16 +20,16 @@ license: CC0
   链接：[bilibili动态](https://t.bilibili.com/730225134349058050)
 - 新年贺·小横竖歌词  
   作者：[@L24-无尾鱼](https://space.bilibili.com/1691251950/)  
-  链接：[小横竖评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply148357172784) \| [bilibili动态](https://t.bilibili.com/753628720392044629)  
+  链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply148357172784) \| [bilibili动态](https://t.bilibili.com/753628720392044629)  
 - 小横竖歌词与叶岚  
   作者：[@又寸方正在车俞入](https://space.bilibili.com/68156839)及其同学  
-  链接：[小横竖评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply148396517184)  
+  链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply148396517184)  
 - 每日打卡  
   作者：[@云cloud--](https://space.bilibili.com/1115295311)  
-  链接：[小横竖评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply148787357008)  
+  链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply148787357008)  
 - 小横竖生贺·叶岚  
   作者：[@楠瑾idy](https://space.bilibili.com/402303830/)  
   链接：[bilibili动态](https://t.bilibili.com/755028214026338345)  
 - 百日贺图  
   作者：[@纥奚璟瑜](https://space.bilibili.com/430112201/)  
-  链接：[bilibili动态](https://www.bilibili.com/video/BV1G7411k7cx/#reply154071737888)
+  链接：[bilibili动态](https://www.bilibili.com/video/av85002656/#reply154071737888)

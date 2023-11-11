@@ -5,36 +5,123 @@ license: CC0
 # 与小横竖有关的活动
 
 ## 曲推
-### [小横竖夏日曲推](https://www.bilibili.com/video/BV1G7411k7cx/#reply178992236352)
+### [小横竖夏日曲推](https://www.bilibili.com/video/av85002656/#reply178992236352)
 [推曲表格](vocal-grid-2023summer/simple.jpg) \| [在线填写](vocal-grid-2023summer/)
-1. 一首深夜听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply178992586384) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2456568359)】
-2. 一首代表夏日的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179167023936) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2387551459)】
-3. 一首调教很神的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179368881360) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2393621559)】
-4. 一首旅行时听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179560933120) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2420666659)】
-5. 一首开心时就会不自觉哼起来的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179750545152) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2381771259)】
-6. 一首适合跑步时听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply179946173712) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2420794559)】
-7. 一首关于别离的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180146216448) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2484442459)】
-8. 一首很生草的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180339127904) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2447930259)】
-9. 一首雨天听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180538539904) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2390940059)】
-10. 一首听了能助眠的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180706675376)】
-11. 一首温柔的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply180891676832)】
-12. 一首伤感的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply181100958960)】
-13. 一首对你有着特殊意义的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply181271001488)】
-14. 一首关于自家cp的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply181455204240)】
-15. 一首删稿了的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply181651291184)】
-16. 一首古早的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply181839830960)】
-17. 一首不太热门但你很喜欢的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply182017383024)】
-18. 一首学习或工作时听的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply182196464704)】
-19. 一首甜蜜的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply182394274992)】
-20. 一首很欲的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply182576665840)】
-21. 一首并不完美的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply182755622096)】
-22. 一首多人合唱的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply182935695024)】
-23. 一首既安心又惆怅的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply183123715728)】
-24. 一首跨语种的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply183288392928)】
-25. 一首很有魔法感的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply183431976784)】
-26. 一首恐怖的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply183607345968)】
-27. 一首叙事向的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply183806624944)】
-28. 一首送给未来的曲子 【[评论区](https://www.bilibili.com/video/BV1G7411k7cx/#reply183941916896)】
+
+
+<details>
+
+<summary>主题列表</summary>
+
+1. 一首深夜听的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply178992586384) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2456568359)】
+2. 一首代表夏日的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply179167023936) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2387551459)】
+3. 一首调教很神的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply179368881360) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2393621559)】
+4. 一首旅行时听的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply179560933120) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2420666659)】
+5. 一首开心时就会不自觉哼起来的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply179750545152) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2381771259)】
+6. 一首适合跑步时听的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply179946173712) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2420794559)】
+7. 一首关于别离的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply180146216448) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2484442459)】
+8. 一首很生草的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply180339127904) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2447930259)】
+9. 一首雨天听的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply180538539904) \| [收藏夹](https://space.bilibili.com/1970265959/favlist?fid=2390940059)】
+10. 一首听了能助眠的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply180706675376)】
+11. 一首温柔的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply180891676832)】
+12. 一首伤感的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply181100958960)】
+13. 一首对你有着特殊意义的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply181271001488)】
+14. 一首关于自家cp的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply181455204240)】
+15. 一首删稿了的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply181651291184)】
+16. 一首古早的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply181839830960)】
+17. 一首不太热门但你很喜欢的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply182017383024)】
+18. 一首学习或工作时听的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply182196464704)】
+19. 一首甜蜜的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply182394274992)】
+20. 一首很欲的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply182576665840)】
+21. 一首并不完美的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply182755622096)】
+22. 一首多人合唱的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply182935695024)】
+23. 一首既安心又惆怅的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply183123715728)】
+24. 一首跨语种的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply183288392928)】
+25. 一首很有魔法感的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply183431976784)】
+26. 一首恐怖的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply183607345968)】
+27. 一首叙事向的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply183806624944)】
+28. 一首送给未来的曲子 【[评论区](https://www.bilibili.com/video/av85002656/#reply183941916896)】
+
+</details>
+
+
+### [每日庆生曲推](https://www.bilibili.com/video/av85002656/#reply187478267152)
+
+维护者：[@某科学的雷神机关枪](https://space.bilibili.com/67946083)
+
+<details>
+
+<summary>2023年09月</summary>
+
+| 日期 | 主题 |
+|---|---|
+| [2023年09月26日](https://www.bilibili.com/video/av85002656/#reply187568320736) | [【镜音连·洛天依·言和原创曲】Trémail Cpt.2   思念尘埃【PV付】](https://www.bilibili.com/video/BV1vx411K7MX/) |
+| [2023年09月27日](https://www.bilibili.com/video/av85002656/#reply187713714192) | [【言和原创】何人来战-2020世界赛LPL出阵曲](https://www.bilibili.com/video/BV1hA411J729/) |
+| [2023年09月28日](https://www.bilibili.com/video/av85002656/#reply187820667216) | [【Days】三月雨（重制版）-洛天依](https://www.bilibili.com/video/BV1vx411F7Ey/) |
+| [2023年09月29日](https://www.bilibili.com/video/av85002656/#reply188000687904) | [【言和原创】封刀不为峥嵘【砖厂浪人/PV付】【幻月音乐团/大司乐坊】](https://www.bilibili.com/video/BV1cs411b76w/) |
+| [2023年09月30日](https://www.bilibili.com/video/av85002656/#reply188098275888) | [【洛天依原创】向日葵 / Himawari 2022【Kevinz/坐标/海纳/流绪】【2022 Remake   Ver.】](https://www.bilibili.com/video/BV1fG4y1p7bM/) |
+
+</details>
+
+<details>
+
+<summary>2023年10月</summary>
+
+| 日期 | 主题 |
+|---|---|
+| [2023年10月01日](https://www.bilibili.com/video/av85002656/#reply188212892672) | [【乐正龙牙原创】 君宝  By:绛舞乱丸、幽舞越山、枭目   致敬武侠泰斗金庸先生，似张三丰一般是我辈永远敬仰的巅峰](https://www.bilibili.com/video/BV1AE411R72H/) |
+| [2023年10月02日](https://www.bilibili.com/video/av85002656/#reply188446354080) | [【洛天依】世末积雨云](https://www.bilibili.com/video/BV1Mx411P75Y/) |
+| [2023年10月03日](https://www.bilibili.com/video/av85002656/#reply188536865920) | [【星火行动】朝汐【洛天依原创曲】【神华社】](https://www.bilibili.com/video/BV1jW411S7RG/) |
+| [2023年10月04日](https://www.bilibili.com/video/av85002656/#reply188619111488) | [【乐正绫/国风电子原创】惊梦女丽娘｜虚拟歌姬游园惊梦会梦见电子牡丹亭吗？｜（VC本家）](https://www.bilibili.com/video/BV1ze4y1B7Ht/) |
+| [2023年10月05日](https://www.bilibili.com/video/av85002656/#reply188906817184) | [【乐正龙牙原创】黑土](https://www.bilibili.com/video/BV1Df4y1j7y3/) |
+| [2023年10月06日](https://www.bilibili.com/video/av85002656/#reply189050559392) | [言和原创《言氏战鼓》](https://www.bilibili.com/video/BV1Ax411P7Aj/) |
+| [2023年10月07日](https://www.bilibili.com/video/av85002656/#reply189060326128) | [【洛天依-重阳节原创曲】雁去台【贺节组强势回归！！】](https://www.bilibili.com/video/BV1ms411x723/) |
+| [2023年10月08日](https://www.bilibili.com/video/av85002656/#reply189188768960) | [洛天依，言和原创《花儿纳吉》](https://www.bilibili.com/video/BV15s41127yg/) |
+| [2023年10月09日](https://www.bilibili.com/video/av85002656/#reply189399634608) | [【洛天依原创】绝对孤独少女【无名社】](https://www.bilibili.com/video/BV17x411P7qE/) |
+| [2023年10月10日](https://www.bilibili.com/video/av85002656/#reply189563631712) | [【洛天依原创】漂流（PV付）](https://www.bilibili.com/video/BV1Et411f7mZ/) |
+| [2023年10月11日](https://www.bilibili.com/video/av85002656/#reply189645044528) | [【言和Feat.心华原创曲】渐晴【延时Project·言和十周年】](https://www.bilibili.com/video/BV1C24y1R78r/) |
+| [2023年10月12日](https://www.bilibili.com/video/av85002656/#reply189812309056) | [乐正绫   原创《傲娇系男孩的告白日》（专辑《绫》收录）](https://www.bilibili.com/video/BV1rt411f75e/) |
+| [2023年10月13日](https://www.bilibili.com/video/av85002656/#reply189940150592) | [【言和原创】谋杀一颗少女心【原创PV付】](https://www.bilibili.com/video/BV1hE411Z7XB/) |
+| [2023年10月14日](https://www.bilibili.com/video/av85002656/#reply190095553664) | [【洛天依/乐正绫原创】霜雪千年【PV付/COP】](https://www.bilibili.com/video/BV1es41127Fd/) |
+| [2023年10月15日](https://www.bilibili.com/video/av85002656/#reply190232849840) | [【双言和原创曲】好奇与勇气【踏云社】](https://www.bilibili.com/video/BV1Mt411Z76c/) |
+| [2023年10月16日](https://www.bilibili.com/video/av85002656/#reply190357208368) | [【踏云社】【星尘原创】Death   Dive【纪念卡西尼号二十周年】](https://www.bilibili.com/video/av15438525/) |
+| [2023年10月17日](https://www.bilibili.com/video/av85002656/#reply190479286224) | [【言和、乐正龙牙翻唱】奢香夫人（cover   凤凰传奇）](https://www.bilibili.com/video/BV1ZE411C7Ws/) |
+| [2023年10月18日](https://www.bilibili.com/video/av85002656/#reply190633754240) | [让你怀疑耳机！次世代歌声合成引擎重制版「无色」【星尘/海伊/苍穹】](https://www.bilibili.com/video/BV1wE411y72h/) |
+| [2023年10月19日](https://www.bilibili.com/video/av85002656/#reply190753056640) | [【星尘原创】栖凰【忘川风华录】](https://www.bilibili.com/video/BV1Tt411o74P/) |
+| [2023年10月20日](https://www.bilibili.com/video/av85002656/#reply190886284080) | [【幻晓伊原创】问苍【原创PV付】](https://www.bilibili.com/video/BV1Yz4y1o7BB/) |
+| [2023年10月21日](https://www.bilibili.com/video/av85002656/#reply190915364416) | [【乐正绫原创】Revival【原创PV】](https://www.bilibili.com/video/BV1Ma4y1s7xE/) |
+| [2023年10月22日](https://www.bilibili.com/video/av85002656/#reply191124584192) | [【乐正绫原创】虚无勇者【梨沙子P】](https://www.bilibili.com/video/BV1Ds41147cY/) |
+| [2023年10月23日](https://www.bilibili.com/video/av85002656/#reply191203185408) | [【洛天依原创】梨花泽泽远山远【Melo】【平行四界】](https://www.bilibili.com/video/BV1is411275p/) |
+| [2023年10月24日](https://www.bilibili.com/video/av85002656/#reply191454080032) | [新葛平 原创《今天的诗》](https://www.bilibili.com/video/BV1Bs41127pL/) |
+| [2023年10月25日](https://www.bilibili.com/video/av85002656/#reply191574866720) | [【言和】汉关（纪念抗美援朝七十周年原创曲）](https://www.bilibili.com/video/BV1Zt4y1Y76t/) |
+| [2023年10月26日](https://www.bilibili.com/video/av85002656/#reply191720198928) | [【言和原创管弦】船、海，海妖与水手【XX与XY.jpg?】【PV付/踏云社】](https://www.bilibili.com/video/BV1nt411d7AY/) |
+| [2023年10月27日](https://www.bilibili.com/video/av85002656/#reply191859135616) | [“她拼了命的跃出人海 又跌入人海”【在人间】](https://www.bilibili.com/video/BV1by4y1P7oh/) |
+| [2023年10月28日](https://www.bilibili.com/video/av85002656/#reply191984973312) | [【星尘&赤羽】山海【Cover王心凌&谭维维】](https://www.bilibili.com/video/BV15e4y177TD/) |
+| [2023年10月29日](https://www.bilibili.com/video/av85002656/#reply192154763344) | [【言和】血腥爱情故事【VOCALOID   COVER】](https://www.bilibili.com/video/BV1fx41177xH/) |
+| [2023年10月30日](https://www.bilibili.com/video/av85002656/#reply192271576304) | [【言和×东方栀子原创】扭曲的莫比乌斯【空色幻奏×栀子同人社】](https://www.bilibili.com/video/BV1xx411P7Rk/) |
+| [2023年10月31日](https://www.bilibili.com/video/av85002656/#reply192385633536) | [【原创曲】恶人是我【VC本家】【雨狸、李冲、绛舞乱丸】](https://www.bilibili.com/video/BV1XE411b75z/) |
+
+
+</details>
+
+<details>
+
+<summary>2023年11月</summary>
+
+| 日期 | 主题 |
+|---|---|
+| [2023年11月01日](https://www.bilibili.com/video/av85002656/#reply192555955504) | [【洛天依、乐正绫原创】睡神宣言  BY   【绛舞乱丸、枭目】今晚我化身迈克尔脏克迅与万圣节的你不眠不休装神弄鬼！MUSIC!](https://www.bilibili.com/video/BV14x411E7h4/) |
+| [2023年11月02日](https://www.bilibili.com/video/av85002656/#reply192688657312) | [《未命名的故事书》Ep.03：地表生物（v2.0重置）【洛天依原创】【F.M.H-1】](https://www.bilibili.com/video/BV1C54y1y7FU/)<br>       [【洛天依/乐正绫原创曲】地表生物【原创pv付？】【F.M.H-1】](https://www.bilibili.com/video/BV1vx411E7nR/) |
+| [2023年11月03日](https://www.bilibili.com/video/av85002656/#reply192825743920) | [【乐正绫】《华夏之章》【小旭PRO】【绛舞乱丸】](https://www.bilibili.com/video/BV1ds411s7hA/) |
+| [2023年11月04日](https://www.bilibili.com/video/av85002656/#reply192838606208) | [【言和翻唱】《浮世英魂》战红颜系列之穆桂英](https://www.bilibili.com/video/BV1kx411E7AR/) |
+| [2023年11月05日](https://www.bilibili.com/video/av85002656/#reply193132725184) | [【乐正绫原创】战狐【民族调/管弦乐】【PV付】](https://www.bilibili.com/video/BV1cs411d7AT/) |
+| [2023年11月06日](https://www.bilibili.com/video/av85002656/#reply193284535600) | [【乐正龙牙】风华万千](https://www.bilibili.com/video/BV1oa411c7bP/) |
+| [2023年11月07日](https://www.bilibili.com/video/av85002656/#reply193294202368) | [心华，乐正绫原创《大時代》](https://www.bilibili.com/video/BV1Vs411d7iP/) |
+| [2023年11月08日](https://www.bilibili.com/video/av85002656/#reply193573330320) | [【星尘原创曲】为新生振翅而上『天马行空Fairytale』专辑收录曲](https://www.bilibili.com/video/BV19E411i7AT/) |
+| [2023年11月09日](https://www.bilibili.com/video/av85002656/#reply193708102848) | [【星尘海伊原创】绮云泽『星之海StarOcean』收录曲](https://www.bilibili.com/video/BV1Bb411c7v2/)<br>       [【新世代虚拟歌手曲库】《绮云泽》星尘&海伊【平行四界&五维介质】](https://www.bilibili.com/video/BV1X94y1f714/) |
+| [2023年11月10日](https://www.bilibili.com/video/av85002656/#reply193849419728) | [【心华原创曲】记刘慈欣《乡村教师》｜“他是一根照亮人类文明的蜡烛”｜蜡炬不干](https://www.bilibili.com/video/BV1Rg4y1X7bv/) |
+
+</details>
 
 ## 曲萌
 
@@ -127,6 +214,8 @@ license: CC0
   主题：[成一书著一划 行万年于笔下](https://www.bilibili.com/video/av85002656/#reply129535475952)、[嫌弃下雨的天气 可怜垮掉的发型](https://www.bilibili.com/video/av85002656/#reply129537461760)
 - 2023年02月10日 \| 心华八周年生日飞花令  
   主题：[心华八周年](https://www.bilibili.com/video/av85002656/#reply149201853088)
+- 2023年09月29日 \| 中秋歌词接龙  
+  主题：[言缀成文虽千载仍生花](https://www.bilibili.com/video/av85002656/#reply188000052352)
 
 ## CTF
 - [Hgame2020·日常](https://github.com/vidar-team/Hgame2020_writeup/blob/master/week3/HGAME%202020%20Week3%20Official%20Writeup.pdf)
