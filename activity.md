@@ -9,7 +9,7 @@ license: CC0
 [推曲表格](vocal-grid-2023summer/simple.jpg) \| [在线填写](vocal-grid-2023summer/)
 
 
-<details>
+<details markdown='1'>
 
 <summary>主题列表</summary>
 
@@ -49,7 +49,7 @@ license: CC0
 
 维护者：[@某科学的雷神机关枪](https://space.bilibili.com/67946083)
 
-<details>
+<details markdown='1'>
 
 <summary>2023年09月</summary>
 
@@ -63,7 +63,7 @@ license: CC0
 
 </details>
 
-<details>
+<details markdown='1'>
 
 <summary>2023年10月</summary>
 
@@ -104,7 +104,7 @@ license: CC0
 
 </details>
 
-<details>
+<details markdown='1'>
 
 <summary>2023年11月</summary>
 

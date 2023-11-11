@@ -64,4 +64,8 @@ font-weight: normal;
 color: $section-headings-color;
 }
 
+details > summary {
+  display: list-item;
+}
+
 @import "{{ site.theme }}";
