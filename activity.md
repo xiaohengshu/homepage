@@ -120,6 +120,7 @@ license: CC0
 | [2023年11月08日](https://www.bilibili.com/video/av85002656/#reply193573330320) | [【星尘原创曲】为新生振翅而上『天马行空Fairytale』专辑收录曲](https://www.bilibili.com/video/BV19E411i7AT/) |
 | [2023年11月09日](https://www.bilibili.com/video/av85002656/#reply193708102848) | [【星尘海伊原创】绮云泽『星之海StarOcean』收录曲](https://www.bilibili.com/video/BV1Bb411c7v2/)<br>       [【新世代虚拟歌手曲库】《绮云泽》星尘&海伊【平行四界&五维介质】](https://www.bilibili.com/video/BV1X94y1f714/) |
 | [2023年11月10日](https://www.bilibili.com/video/av85002656/#reply193849419728) | [【心华原创曲】记刘慈欣《乡村教师》｜“他是一根照亮人类文明的蜡烛”｜蜡炬不干](https://www.bilibili.com/video/BV1Rg4y1X7bv/) |
+| [2023年11月11日](https://www.bilibili.com/video/av85002656/#reply193993286576) | [【【东方栀子Era】左手指月](https://www.bilibili.com/video/BV1Xr4y1C7Br/) |
 
 </details>
 
