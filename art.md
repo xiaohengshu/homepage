@@ -33,3 +33,6 @@ license: CC0
 - 百日贺图  
   作者：[@纥奚璟瑜](https://space.bilibili.com/430112201/)  
   链接：[bilibili动态](https://www.bilibili.com/video/av85002656/#reply154071737888)
+- 小横竖歌词帆布包  
+  作者：[@又寸方正在车俞入](https://space.bilibili.com/68156839)  
+  链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply201297558160)  
