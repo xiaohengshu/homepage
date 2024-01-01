@@ -35,10 +35,11 @@ license: CC0
 - [曲推](./activity#曲推)
 - [曲萌](./activity#曲萌)
 - [颁奖典礼](./activity#颁奖典礼)
-- [汉字接龙](./activity#颁奖典礼)
+- [汉字接龙](./activity#汉字接龙)
 - [灯谜](./activity#灯谜)
 - [词语接龙](./activity#词语接龙)
 - [飞花令](./activity#飞花令)
+- [寻宝](./activity#寻宝)
 - [CTF](./activity#ctf)
 
 ## [小横竖朋友们的作品](./community)

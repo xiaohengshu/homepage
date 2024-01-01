@@ -218,5 +218,9 @@ license: CC0
 - 2023年09月29日 \| 中秋歌词接龙  
   主题：[言缀成文虽千载仍生花](https://www.bilibili.com/video/av85002656/#reply188000052352)
 
+## 寻宝
+- 2023年12月25日 \| 心华八周年生日飞花令  
+  主题：[双旦找🎁](https://www.bilibili.com/video/av85002656/#reply200099450112)
+
 ## CTF
 - [Hgame2020·日常](https://github.com/vidar-team/Hgame2020_writeup/blob/master/week3/HGAME%202020%20Week3%20Official%20Writeup.pdf)
