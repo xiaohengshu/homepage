@@ -32,6 +32,7 @@ license: CC0
 - [时评与收录](./review)
 
 ## [与小横竖有关的活动](./activity)
+- [应援](./activity#应援)
 - [曲推](./activity#曲推)
 - [曲萌](./activity#曲萌)
 - [颁奖典礼](./activity#颁奖典礼)

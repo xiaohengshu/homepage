@@ -3,6 +3,9 @@ license: CC0
 ---
 
 # 与小横竖有关的活动
+## 应援
+### 小横竖心九应援企划
+- [应援说明](./9thyingyuan)
 
 ## 曲推
 ### [小横竖夏日曲推](https://www.bilibili.com/video/av85002656/#reply178992236352)
