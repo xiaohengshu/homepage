@@ -30,11 +30,25 @@ license: CC0
 
 - 2023.01.26小横竖生贺  
   作者：[@叶玖离](https://space.bilibili.com/42839388)  
-  链接：[bilibili专栏](https://www.bilibili.com/read/cv21417792)  
+  链接：[bilibili专栏](https://www.bilibili.com/read/cv30085091)  
 
 - 2023小横竖（迟到的）生贺  
-  作者：[@L24-无尾鱼](https://space.bilibili.com/1691251950)  
-  链接：[bilibili专栏](https://www.bilibili.com/read/cv21444786)  
+  作者：[@纥奚璟瑜](https://space.bilibili.com/430112201)  
+  链接：[bilibili专栏](https://www.bilibili.com/read/cv30147512)  
+
+### 小横竖四周年
+
+- 2024.01.26小横竖生贺  
+  作者：[@叶玖离](https://space.bilibili.com/42839388)  
+  链接：[bilibili专栏](https://www.bilibili.com/read/cv30085091)  
+
+- 字谜  
+  作者：[@涂改改](https://space.bilibili.com/17939401)  
+  链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply204956756848)  
+
+- 2024小横竖生贺  
+  作者：[@纥奚璟瑜](https://space.bilibili.com/430112201)  
+  链接：[bilibili专栏](https://www.bilibili.com/read/cv30147512)  
 
 ## 曲拟向
 
@@ -56,7 +70,8 @@ license: CC0
 
 - 繁树星辰  
   作者：[@叶玖离](https://space.bilibili.com/42839388)  
-  链接：[bilibili专栏](https://www.bilibili.com/read/cv4687640)  
+  链接：[bilibili专栏](https://www.bilibili.com/read/cv4687640) 
+
 - 月白色倒影的少女的曲拟十四篇  
   作者：[@月白色倒影的少女](https://space.bilibili.com/291314783)  
   链接：[bilibili专栏](https://www.bilibili.com/read/cv27461046)  

@@ -22,3 +22,9 @@ license: CC0
 - 【光遇钢琴】01.26横竖撇点折两周年贺！  
   UP主：[@叶玖离](https://space.bilibili.com/42839388)  
   链接：[视频 \| bilibili](https://www.bilibili.com/video/BV1XP4y1P7kk/)  
+- 【心华】生日祝福合集【心华诞生祭2024】 \| 小横竖集体  
+  UP主：[@心华诞生祭](https://space.bilibili.com/403587881)  
+  链接：[视频 \| bilibili](https://www.bilibili.com/video/BV1g7421N7K2/)  
+- 沉浸式!翻看为心华生日而作的立体书!【心华九周年生贺】  
+  UP主：[@纥奚璟瑜](https://space.bilibili.com/430112201)  
+  链接：[视频 \| bilibili](https://www.bilibili.com/video/BV1Pv421276j/)  
