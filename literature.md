@@ -30,11 +30,11 @@ license: CC0
 
 - 2023.01.26小横竖生贺  
   作者：[@叶玖离](https://space.bilibili.com/42839388)  
-  链接：[bilibili专栏](https://www.bilibili.com/read/cv30085091)  
+  链接：[bilibili专栏](https://www.bilibili.com/read/cv15006818)  
 
 - 2023小横竖（迟到的）生贺  
-  作者：[@纥奚璟瑜](https://space.bilibili.com/430112201)  
-  链接：[bilibili专栏](https://www.bilibili.com/read/cv30147512)  
+  作者：[@L24-无尾鱼](https://space.bilibili.com/1691251950)  
+  链接：[bilibili专栏](https://www.bilibili.com/read/cv21444786)  
 
 ### 小横竖四周年
 
