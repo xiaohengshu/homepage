@@ -72,6 +72,10 @@ license: CC0
   作者：[@叶玖离](https://space.bilibili.com/42839388)  
   链接：[bilibili专栏](https://www.bilibili.com/read/cv4687640) 
 
+- 曲拟一则
+  作者：[@叶玖离](https://space.bilibili.com/42839388)
+  链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply5783623520)  
+
 - 月白色倒影的少女的曲拟十四篇  
   作者：[@月白色倒影的少女](https://space.bilibili.com/291314783)  
   链接：[bilibili专栏](https://www.bilibili.com/read/cv27461046)  

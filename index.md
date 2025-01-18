@@ -32,6 +32,7 @@ license: CC0
 - [时评与收录](./review)
 
 ## [与小横竖有关的活动](./activity)
+- [新（心）华词典](./activity#新（心）华词典)
 - [小横竖漂流箱](./activity#小横竖漂流箱)
 - [集体祝福](./activity#集体祝福)
 - [曲推](./activity#曲推)

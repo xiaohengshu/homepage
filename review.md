@@ -26,3 +26,5 @@ license: CC0
 - [周刊VOCALOID中文排行榜♪394](https://www.bilibili.com/video/BV1E7411T75G/?t=1284)·64位
 - [周刊VOCALOID中文排行榜♪395](https://www.bilibili.com/video/BV1hE41177z4/?t=1514)·106位
 - [【年榜】VOCALOID中文曲 2020】](https://www.bilibili.com/video/BV1VA411M7hJ/?t=151)·96位
+- [【年榜】VOCALOID中文曲 2023】](https://www.bilibili.com/video/BV1Uk4y1Q7gR/?t=4057)·评论1位
+- [【年榜】VOCALOID中文曲 2024】](https://www.bilibili.com/video/BV193cWe2Eh8/?t=4065)·评论1位
