@@ -635,7 +635,9 @@ license: CC0
 </details>
 
 ## 曲萌
-### [小横竖x桂圆2024年同名曲萌]
+### 小横竖x桂圆2024年同名曲萌
+
+[活动提案](https://www.bilibili.com/video/av85002656/#reply250119355585) \| [提名](https://www.bilibili.com/video/av85002656/#reply250608841296) \| [结果发布](https://t.bilibili.com/1022287080748744711)
 
 ### [小横竖2023冬曲萌](https://www.bilibili.com/video/av85002656/#reply150786237328)
 
