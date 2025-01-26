@@ -40,7 +40,11 @@ license: CC0
 
 - 小横竖四周年贺·眾看官，知曉嗎  
   作者：[@蓝发粉瞳女高厨](https://space.bilibili.com/3493274014714271)  
-  链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply204869860992)    
+  链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply204869860992)   
+
+- 小横竖五周年贺·叶岚与心华  
+  作者：[@蓝发粉瞳女高厨](https://space.bilibili.com/3493274014714271)  
+  链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply252931240417) 、[微博](https://www.weibo.com/7803263227/PbplKpMFS)  
  
 ## 书画向
 - 心华与横竖撇点折歌词  

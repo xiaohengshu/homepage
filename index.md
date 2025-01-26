@@ -17,6 +17,7 @@ license: CC0
 
 ## 小横竖大事件
 
+- 2025年01月26日，[接龙(20000/20000)达成](https://www.bilibili.com/video/av85002656/#reply252941325713)
 - 2023年01月26日，[10万评论达成](https://www.bilibili.com/video/av85002656/#reply149226292736)
 - 2022年11月19日，[接龙(10000/10000)达成](https://www.bilibili.com/video/av85002656/#reply138216469552)
 - 2020年02月14日，[10万播放达成](https://www.bilibili.com/video/av85002656/#reply2374608458)、[VOCALOID中文殿堂曲达成](https://zh.moegirl.org.cn/VOCALOID%E4%B8%AD%E6%96%87%E6%AE%BF%E5%A0%82%E6%9B%B2/2020%E5%B9%B4%E6%8A%95%E7%A8%BF)
