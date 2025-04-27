@@ -17,6 +17,7 @@ license: CC0
 
 ## 小横竖大事件
 
+- 2025年04月27日，[20万评论达成](https://www.bilibili.com/video/av85002656/#reply260500320881)
 - 2025年01月26日，[接龙(20000/20000)达成](https://www.bilibili.com/video/av85002656/#reply252941325713)
 - 2023年01月26日，[10万评论达成](https://www.bilibili.com/video/av85002656/#reply149226292736)
 - 2022年11月19日，[接龙(10000/10000)达成](https://www.bilibili.com/video/av85002656/#reply138216469552)
