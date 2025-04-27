@@ -48,7 +48,7 @@ jobs:
         env:
           JEKYLL_ENV: production
       - name: Download vocal-grid-2023summer artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
           name: vocal-grid-2023summer
           path: _site/vocal-grid-2023summer
