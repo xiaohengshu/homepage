@@ -67,8 +67,8 @@ license: CC0
   作者：[@云cloud--](https://space.bilibili.com/1115295311)  
   链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply209706556144)
 
-- 小横竖歌词
-  作者：[@晋城二中](https://space.bilibili.com/96475348)
+- 小横竖歌词  
+  作者：[@晋城二中](https://space.bilibili.com/96475348)  
   链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply289005342272)
 
 ## 手工向
