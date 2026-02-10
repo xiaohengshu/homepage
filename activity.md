@@ -722,7 +722,8 @@ license: CC0
   主题：[横竖撇折](https://www.bilibili.com/video/av85002656/#reply149201853088)
 - 2024年02月10日 \| 小横竖氵军第六届词语接龙大赛  
   主题：[心年快乐](https://www.bilibili.com/video/av85002656/#reply207439473360)
-
+- 2025年02月10日 \| 小横竖氵军第七届词语接龙大赛  
+  主题：[心十成诗](https://www.bilibili.com/video/av85002656/#reply254293725281)
 ## 飞花令
 
 - 2020年02月08日 \| VC歌词接龙飞花令  
