@@ -44,6 +44,7 @@ license: CC0
 - [灯谜](./activity#灯谜)
 - [词语接龙](./activity#词语接龙)
 - [飞花令](./activity#飞花令)
+- [歌词接龙](./activity#歌词接龙)
 - [寻宝](./activity#寻宝)
 - [CTF](./activity#ctf)
 
