@@ -53,7 +53,11 @@ license: CC0
 - 心华十一周年贺·图书馆华华  
   委托人：[@乔植Sherry](https://weibo.com/u/5220575044)  
   链接：[微博](https://weibo.com/5220575044/Qrb6U9dvE)
- 
+
+- 心华登上拜年祭舞台贺图  
+  画师：[@阿铃养鲸鱼](https://space.bilibili.com/1961304/)、委托人：[@心华登上拜年纪舞台了](https://space.bilibili.com/8092743)  
+  链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply295606250960) \| [bilibili动态](https://t.bilibili.com/1172139597816135699) \| [微博](https://weibo.com/2980964420/Qt1fJsQz4)
+
 ## 书画向
 - 心华与横竖撇点折歌词  
   作者：[@-鲁弩-](https://www.weibo.com/u/5746124453)及其母亲  

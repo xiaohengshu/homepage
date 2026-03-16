@@ -34,3 +34,6 @@ license: CC0
 - 【原创编舞】横竖撇点折 | 以心相系华夏【心华十一周年同人生日纪 • 心愿单品】【刺猬】  
   UP主：[@刺猬megumi](https://space.bilibili.com/7020568)  
   链接：[视频 \| bilibili](https://www.bilibili.com/video/BV15kZnBtEgH/)
+- 心愁，就愿。/心华原创【11th·心愿】  
+  UP主：[@奥莉安多幻想曲](https://space.bilibili.com/3546875932183198)  
+  链接：[视频 \| bilibili](https://www.bilibili.com/video/BV1hGFZz8EPz/)、[词解 \| bilibili](https://www.bilibili.com/opus/1169521574710083622)
