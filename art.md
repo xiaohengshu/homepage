@@ -105,5 +105,5 @@ license: CC0
   返图：[@Eggry](https://www.weibo.com/3925119214/PkottbMjN)
 
 - 小横竖印象键帽  
-  主催：[@今天三撇有猫了吗](https://space.bilibili.com/1044649869/)  
+  设计：[@今天三撇有猫了吗](https://space.bilibili.com/1044649869/)  
   返图：[@随风悠思](https://www.bilibili.com/video/av85002656/#reply292078142384)、[@又寸方正在车俞入](https://space.bilibili.com/68156839/#reply290467574608)、[@左摇右摆的小稻花](https://www.bilibili.com/opus/1164699889808965712#reply288387739585)、[@玄月临照](https://www.bilibili.com/opus/1165790609617715201)
