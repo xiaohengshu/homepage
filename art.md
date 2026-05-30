@@ -91,6 +91,11 @@ license: CC0
   作者：[@晋城二中](https://space.bilibili.com/96475348)  
   链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply289005342272)
 
+- 小横竖歌词  
+  作者：[@又寸方正在车俞入](https://space.bilibili.com/68156839)  
+  链接：[小横竖评论区](https://www.bilibili.com/video/av85002656/#reply303843145616)  
+
+
 ## 手工向
 - 黑胶唱片  
   作者：[@物化史](https://space.bilibili.com/1970265959/)  
