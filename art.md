@@ -65,6 +65,10 @@ license: CC0
 - 心华与小横竖服设的明日方舟·颉  
   作者：[@酱油讨封](https://space.bilibili.com/21598077/)  
   链接：[小红书](https://www.xiaohongshu.com/explore/69cb676b0000000023021c10?xsec_token=CBXGmYISP6jAM5usToCKIiV_85JNkoALRDYgk9zlZtht0=)
+  
+- 玲珑流转·心华&乐正绫  
+  发布者：[@乔植Sherry](https://weibo.com/u/5220575044)  
+  链接：[微博](https://weibo.com/5220575044/R8aoari09)
 
 ## 书画向
 - 心华与横竖撇点折歌词  
