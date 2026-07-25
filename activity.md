@@ -638,16 +638,16 @@ license: CC0
 ## 曲萌
 ### 小横竖x桂圆2024年同名曲萌
 
-[活动提案](https://www.bilibili.com/video/av85002656/#reply250119355585) \| [提名](https://www.bilibili.com/video/av85002656/#reply250608841296) \| [结果发布](https://t.bilibili.com/1022287080748744711)
+[规则楼](https://www.bilibili.com/video/av85002656/#reply250119355585) \| [提名楼](https://www.bilibili.com/video/av85002656/#reply250608841296) \| [结果楼](https://t.bilibili.com/1022287080748744711)
 
-### [小横竖2023冬曲萌](https://www.bilibili.com/video/av85002656/#reply150786237328)
-
+### [小横竖2023冬非殿堂曲萌](https://www.bilibili.com/video/av85002656/#reply150786237328)
+[规则楼](https://www.bilibili.com/video/av85002656/#reply146802078832) \| [结果楼](https://www.bilibili.com/video/av85002656/#reply150786237328)  
 - 萌王：年少赞歌
 - 亚军：心海未路
 - 季军：目光海、尘华（并列）
 
-### [小横竖2022年“初心杯”夏季曲萌](https://www.bilibili.com/video/av85002656/#reply128321410176)
-
+### 小横竖2022年夏“初心杯”中V曲萌
+[规则楼](https://www.bilibili.com/video/av85002656/#reply118876728384) \| [结果楼](https://www.bilibili.com/video/av85002656/#reply128321410176)  
 - 萌王：横竖撇点折
 - 亚军：为了你唱下去
 - 季军：Blessing、一半一半（并列）
@@ -656,8 +656,8 @@ license: CC0
 - 第七名：年少赞歌
 - 第八名：万神纪
 
-### [小横竖2021年夏季曲萌](https://www.bilibili.com/video/av85002656/#reply5388446157)
-
+### 小横竖2021年夏心华曲萌
+[规则楼](https://www.bilibili.com/video/av85002656/#reply4974905915) \| [结果楼](https://www.bilibili.com/video/av85002656/#reply5388446157)  
 - 萌王：一人行者、心上华海（并列）
 - 季军：心海未路
 - 第四名：华心彩
