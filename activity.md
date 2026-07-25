@@ -648,6 +648,7 @@ license: CC0
 
 ### 小横竖2022年夏“初心杯”中V曲萌
 [规则楼](https://www.bilibili.com/video/av85002656/#reply118876728384) \| [结果楼](https://www.bilibili.com/video/av85002656/#reply128321410176)  
+收藏夹：[128强](https://space.bilibili.com/430112201/favlist?fid=1688462901) \| [32强](https://space.bilibili.com/430112201/favlist?fid=1731685701) \| [8强](https://space.bilibili.com/430112201/favlist?fid=1750215701)  
 - 萌王：横竖撇点折
 - 亚军：为了你唱下去
 - 季军：Blessing、一半一半（并列）
@@ -658,6 +659,7 @@ license: CC0
 
 ### 小横竖2021年夏心华曲萌
 [规则楼](https://www.bilibili.com/video/av85002656/#reply4974905915) \| [结果楼](https://www.bilibili.com/video/av85002656/#reply5388446157)  
+收藏夹： [提名](https://space.bilibili.com/430112201/favlist?fid=1314069101) \| [32强](https://space.bilibili.com/430112201/favlist?fid=1324103901)  
 - 萌王：一人行者、心上华海（并列）
 - 季军：心海未路
 - 第四名：华心彩
